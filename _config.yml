@@ -1,0 +1,64 @@
+# Site
+name: "Studio HB"
+title: "Studio HB"
+description: "Studio HB, l’agence web spécialisée dans le développement sur mesure."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: ''
+disqus: 'blog-6jsclhfa9v'
+mailchimp-list: false
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  guillaumebriday:
+    name: Guillaume Briday
+    display_name: Guillaume Briday
+    gravatar: 052f1039a54fc4970b24a038c1fa507b
+    email: guillaumebriday@gmail.com
+    web: https://guillaumebriday.fr/
+    twitter: https://twitter.com/guillaumebriday
+    description: ""
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-admin
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
