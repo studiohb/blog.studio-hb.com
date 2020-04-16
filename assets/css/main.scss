@@ -5,11 +5,42 @@
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
-	display:inline;
+  display: inline;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-	"syntax",
-    "starsnonscss"
+  "syntax",
+  "starsnonscss"
 ;
+
+@font-face {
+  font-family: 'Gotham';
+  src: font-url('gotham-bold.eot');
+  src: font-url('gotham-bold.eot?#iefix') format('embedded-opentype'), font-url('gotham-bold.woff2') format('woff2'), font-url('gotham-bold.woff') format('woff'), font-url('gotham-bold.svg#gotham_boldregular') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-dispay: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: font-url('gotham-book.eot');
+  src: font-url('gotham-book.eot?#iefix') format('embedded-opentype'), font-url('gotham-book.woff2') format('woff2'), font-url('gotham-book.woff') format('woff'), font-url('gotham-book.svg#gotham_bookregular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-dispay: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: font-url('gotham-medium.eot');
+  src: font-url('gotham-medium.eot?#iefix') format('embedded-opentype'), font-url('gotham-medium.woff2') format('woff2'), font-url('gotham-medium.woff') format('woff'), font-url('gotham-medium.svg#gotham_mediumregular') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-dispay: swap;
+}
+
+body {
+  font-family: 'Gotham', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
