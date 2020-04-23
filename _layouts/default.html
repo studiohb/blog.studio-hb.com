@@ -72,15 +72,15 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://www.studio-hb.com/">Notre Site</a>
+                    <a target="_blank" class="nav-link" href="https://www.studio-hb.com/">Découvrir Studio HB</a>
                 </li>
 
                 <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://www.instagram.com/studiohblyon/"><i class="fab fa-instagram"></i> Instagram</a>
+                    <a target="_blank" class="nav-link" href="https://www.instagram.com/studiohblyon/"><i class="fab fa-instagram"></i></a>
                 </li>
 
                 <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://github.com/studiohb"><i class="fab fa-github"></i> GitHub</a>
+                    <a target="_blank" class="nav-link" href="https://github.com/studiohb"><i class="fab fa-github"></i></a>
                 </li>
 
             </ul>
@@ -101,7 +101,7 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle">Blog {{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
@@ -144,11 +144,17 @@ ga('send', 'pageview');
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1 font-weight-bold" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">
+                        {{ category | camelcase }}
+                        <span class="font-weight-light">{{ site.tags[category].size }} articles</span>
+                    </a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1 font-weight-bold" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">
+                        {{ category[0] | camelcase }}
+                        <span class="font-weight-light">{{ category[1].size }} articles</span>
+                    </a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}

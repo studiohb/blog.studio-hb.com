@@ -12,7 +12,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #2427C1;
     transition: all 0.2s;
 }
 
@@ -69,10 +69,11 @@ section.recent-posts {
     font-weight: 700;
     font-size: 1.4rem;
     margin-bottom: 27px;
+    color: #2427C1;
 }
 
 .section-title span {
-    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    border-bottom: 1px solid #2427C1;
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
@@ -306,7 +307,18 @@ span.post-read-more a:hover {
 
 .mainheading h1.posttitle {
     font-weight: 700;
+
     margin-bottom: 1rem;
+}
+
+.mainheading .sitetitle {
+    font-size: 51px;
+    font-weight: bold;
+}
+
+.mainheading .lead {
+    font-weight: 300;
+    /* font-size: 21px; */
 }
 
 .footer {
@@ -520,8 +532,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #2427C1;
+    color: #2427C1;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -742,7 +754,7 @@ iframe {
 }
 
 .transpdark {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(39, 39, 193, 0.75);
     color: #fff;
 }
 
@@ -758,7 +770,7 @@ iframe {
     }
 
     .jumbotron.fortags .col-md-4 {
-        background: rgba(0, 0, 0, 0.75);
+        background: rgba(39, 39, 193, 0.75);
         color: #fff;
     }
 
@@ -776,12 +788,11 @@ iframe {
 }
 
 .jumbotron.fortags a {
-    padding: 5px 10px 7px;
-    background: #222;
+    padding: 14px 25px;
+    background: #2427C1;
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
-    text-transform: lowercase;
     font-size: 0.8rem;
     display: inline-block;
 }

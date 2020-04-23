@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="29px" viewBox="0 0 39 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog-minimum-syndical" transform="translate(-97.000000, -17.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(97.000000, 17.000000)">
+                <polygon id="Path" fill="#D61545" points="19.5 0 8.5921875 0 0 8.88888889 19.5 28 39 8.88888889 30.4078125 0"></polygon>
+                <polygon id="Path" fill="#F6658E" points="11.7364583 9 0 9 19 28"></polygon>
+                <polygon id="Path" fill="#DE3C62" points="39 9 27.2833333 9 20 28 20 28"></polygon>
+                <g fill="#F5426C" id="Path">
+                    <polygon points="27.7352929 9.01354435 12.4194099 9.01354435 20.0669324 28.2440206 20.0669324 28.2440206"></polygon>
+                    <polygon points="8.87696077 0.0691367797 0.0625138082 9.01354435 12.4194099 9.01354435"></polygon>
+                </g>
+                <polygon id="Path" fill="#D61545" points="27 9 39 9 30.4256757 0"></polygon>
+                <polygon id="Path" fill="#F5426C" points="31 0 31 0 20 0 27.538175 9"></polygon>
+                <polygon id="Path" fill="#F6658E" points="12.4823091 9 20 0 9 0 9 0"></polygon>
+                <polygon id="Path" fill="#DE3C62" points="12 9 27 9 19.4897959 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
