@@ -44,3 +44,9 @@
 body {
   font-family: 'Gotham', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.img-cover {
+  object-fit: cover;
+  height: 300px;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+{% capture image_url %}
+    {{ include.img | prepend: '/assets/images/' | prepend: site.baseurl }}
+{% endcapture %}
+
+{% capture alt %}
+    {% if include.alt %}
+        {{ include.alt }}
+    {% else %}
+        {{ include.title }}
+    {% endif %}
+{% endcapture %}
+
+<div class="d-block text-center py-4">
+    <img src="{{ image_url | strip }}" alt="{{ alt | strip }}" lazy="loading" />
+</div>
