@@ -28,8 +28,7 @@ Je ne vais pas lister tout les sites dédié a Sketch, ses plugins et ses confé
 
 ### Sketch, manque d’autonomie
 
-Malgré la mise en place de Sketch Cloud, il reste toujours difficile de faire de la collaboration sur Sketch. Nous utilisons donc Invision (commentaire + url de partage), Craft (permet entre autre de publier nos maquettes en mode inspection sur Invision) et InvisionStudio (permet de faire deux trois animations sur maquettes)
-obligés d’utiliser un autre outil du style Invision pour partager les maquettes (ce qui implique un coût supplémentaire de logiciel pour l’agence)
+Malgré la mise en place de Sketch Cloud, il reste toujours difficile de faire de la collaboration sur Sketch. Nous utilisons donc Invision (commentaire + url de partage), Craft (permet, entre autre, de publier nos maquettes en mode inspection sur Invision) et InvisionStudio (permet de faire des transitions coolos sur nos maquettes) L'utilisation de ces outils implique un coût supplémentaire pour l’agence.
 
 ### Figma, commence à faire ses preuves
 
