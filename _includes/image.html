@@ -1,5 +1,9 @@
 {% capture image_url %}
-    {{ include.img | prepend: '/assets/images/' | prepend: site.baseurl }}
+    {% if include.img contains "://" %}
+        {{ include.img }}
+    {% else %}
+        {{ include.img | prepend: '/assets/images/' | prepend: site.baseurl }}
+    {% endif %}
 {% endcapture %}
 
 {% capture alt %}
