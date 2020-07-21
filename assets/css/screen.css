@@ -693,7 +693,8 @@ ul.tags li a:hover {
 .article-post h5,
 .article-post h6 {
     font-weight: 700;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
 }
 
 .article-post img.shadow {
