@@ -14,6 +14,10 @@
     {% endif %}
 {% endcapture %}
 
-<div class="d-block text-center py-4">
+<div class="d-flex flex-column align-items-center py-4">
     <img src="{{ image_url | strip }}" alt="{{ alt | strip }}" lazy="loading" />
+
+    {% if include.caption %}
+        <span class="mt-2 font-italic text-muted">{{ include.caption }}</span>
+    {% endif %}
 </div>
