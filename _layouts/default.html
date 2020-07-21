@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+{% if jekyll.environment == 'staging' %}
+    <meta name="robots" content="noindex" />
+{% endif %}
+
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
