@@ -3,8 +3,8 @@ title: Ça se passe comment chez Studio HB ? Une journée avec nous !
 layout: post
 author: mariebodin
 categories:
-- Vie d'agence
-image: assets/images/2020/07/01.jpg
+  - Vie d'agence
+image: 2020/07/01.jpg
 ---
 
 Studio HB est bien plus qu’une simple agence web, c’est avant tout un état d’esprit ! Dans nos beaux bureaux de Cordeliers à Lyon règne une ambiance studieuse … plus ou moins selon les moments on off. Passez une journée type avec nous, on vous dit tout ou presque :)

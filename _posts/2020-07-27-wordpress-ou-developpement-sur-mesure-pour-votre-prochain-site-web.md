@@ -4,7 +4,8 @@ layout: post
 author: guillaumebriday
 categories:
 - Développement
-image: assets/images/2020/07/wordpress-vs-rails.jpg
+image: 2020/07/wordpress-vs-rails.jpg
+image_caption: "Photo par: @NordWood sur Unsplah"
 ---
 
 Vous souhaitez créer votre site web et vous hésitez entre une **solution Wordpress ou un développement sur-mesure** ? Chez Studio HB, notre **agence web créative à Lyon**, nous avons l’habitude de cette question entièrement légitime et nous allons vous apporter plusieurs éléments de réponse pour faire votre choix !
