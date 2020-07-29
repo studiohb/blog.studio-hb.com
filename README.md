@@ -41,6 +41,10 @@ Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.fr/
 
 Before uploading, you should optimize them with [ImageOptim](https://imageoptim.com/mac).
 
+## Deployment
+
+To deploy the blog on production, you simply need to push on `master`, Netlify handles everything for you.
+
 ## Licence
 
 This project is under [MIT](https://opensource.org/licenses/MIT) license.
