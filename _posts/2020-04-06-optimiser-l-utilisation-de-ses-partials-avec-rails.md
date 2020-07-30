@@ -2,8 +2,9 @@
 layout: post
 title:  "Optimiser l'utilisation de ses partials avec Rails"
 author: guillaumebriday
-categories: [ Rails ]
-image: assets/images/2020/04/puzzle.jpg
+categories:
+  - Développement
+image: 2020/04/puzzle.jpg
 ---
 
 En fonction de comment sont utilisés les partials en Rails, il y a un impact très important sur les performances.

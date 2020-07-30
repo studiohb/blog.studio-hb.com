@@ -2,8 +2,9 @@
 layout: post
 title:  "Sketch vs Figma : mon coeur balance"
 author: mariebodin
-categories: [ Design ]
-image: assets/images/2020/05/sketch-vs-figma.png
+categories:
+  - Design
+image: 2020/05/sketch-vs-figma.png
 ---
 
 ## Pourquoi cet article
