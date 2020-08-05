@@ -4,8 +4,8 @@ layout: post
 author: laurentbuffevant
 categories:
 - Développement
-image: -
-image_caption: -
+image: 2020/08/api.png
+image_caption: "Photo par: @victor_g sur Unsplash"
 ---
 
 Vous avez déjà probablement entendu parler d'API. Mais qu'est-ce donc ? Quand et pourquoi en utiliser ? Quels sont les pièges à éviter ? Comment Studio HB peut vous accompagner dans la conception ou la consommation de vos API ?
