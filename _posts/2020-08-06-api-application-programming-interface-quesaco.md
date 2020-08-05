@@ -63,7 +63,7 @@ Pour être comprise une API doit **nécessairement être documentée**. Imaginez
   * Les données / paramètres attendus en entrée et leur descriptifs
   * Les données renvoyées en retour et leurs descriptifs
 
-Impression d'écran venant de https://carredor-partner-api.studio-hb.fr/#req_63f0e5dc542642bca652a291f0679eab ?
+![Une réponse d'API](/assets/images/2020/08/api-response.png){:class="image-responsive"}
 
 ## L'utilisation des API en agence web : notre cas chez Studio HB
 
