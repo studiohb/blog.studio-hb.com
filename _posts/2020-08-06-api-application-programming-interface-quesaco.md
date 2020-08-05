@@ -25,7 +25,7 @@ Une **API**, **Application Programming Interface** - Interface de Programmation 
 
 Concrètement, une API va par exemple être utilisée pour faire communiquer votre nouvelle **application smartphone** avec le serveur **hébergeant vos données**. La même API pouvant être utilisée par votre Site web pour récupérer et mettre à jour ces mêmes données. L'énorme avantage est que les différents systèmes d'informations peuvent être développés dans des **langages complètements différents**, l'API leur permettra de dialoguer et d'échanger dans une langue commune.
 
-Schéma ?
+![Un schema d'API](/assets/images/2020/08/schema-api.png){:class="img-responsive"}
 
 Une API se caractérise toujours par une **interface d'entrée** (input), et **une de sortie** (output). En clair, une API va permettre de recevoir une information afin d'en renvoyer une autre en réponse après l'avoir analysée et traitée.
 
