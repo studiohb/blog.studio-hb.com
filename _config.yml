@@ -29,6 +29,10 @@ authors:
     email: m.bodin@studio-hb.com
     description: "Passionnée par le digital et soucieuse de l’impact que nos métiers peuvent avoir sur la société"
 
+  laurentbuffevant:
+    name: Laurent Buffevant
+    display_name: Laurent Buffevant
+
 # Plugins
 plugins:
   - jekyll-paginate
