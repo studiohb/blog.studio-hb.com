@@ -45,8 +45,8 @@ Si vous souhaitez que votre API soit facilement utilisée (consommée) par le pl
 
 * Le protocole de transport le plus couramment utilisé est HTTP (HTTPS pour la version sécurisée). Ce standard est reconnu et interprété par tous les systèmes d'information existants. Pas de risque d'incompatibilité avec HTTP!
 * Des architectures de webservice différentes:
-  * **(REST)[https://fr.wikipedia.org/wiki/Representational_state_transfer]** est l'architecture la plus utilisée et la plus connue pour consevoir des API web. La plupart des API ouvertes utilise cette architecture à la fois simple et permettant un large panel de possibilités
-  * Depuis quelques années **(GraphQL)[https://www.howtographql.com/]** est une architecture qui vient concurrencer REST. Elle se veut plus performante en terme de ressource et plus adapatée aux écosystèmes Front (Javascript) actuels
+  * **[REST](https://fr.wikipedia.org/wiki/Representational_state_transfer)** est l'architecture la plus utilisée et la plus connue pour consevoir des API web. La plupart des API ouvertes utilise cette architecture à la fois simple et permettant un large panel de possibilités
+  * Depuis quelques années **[GraphQL](https://www.howtographql.com/)** est une architecture qui vient concurrencer REST. Elle se veut plus performante en terme de ressource et plus adapatée aux écosystèmes Front (Javascript) actuels
   * D'autres architectures tels que **SOAP** ou **XML-RPC** sont parfois utilisées mais tombent de plus en plus en désuétude
 * Les formats de réponse doivent également être normalisés:
   * Pour les données on priviligiera **JSON** ou **XML**
@@ -67,13 +67,13 @@ Impression d'écran venant de https://carredor-partner-api.studio-hb.fr/#req_63f
 
 ## L'utilisation des API en agence web : notre cas chez Studio HB
 
-Vous l'aurez compris, **chez Studio HB les API c'est notre pain quotidien**. Pour nos clients dans l'immobilier par exemple, nous récupérons les biens en vente via une API mise à disposition par les éditeurs de logiciel immobilier ((Apimo)[https://apimo.net/fr/], (Avantio)[https://www.avantio.fr/], (Hektor)[https://www.la-boite-immo.com/logiciel-immobilier.html], etc...).
+Vous l'aurez compris, **chez Studio HB les API c'est notre pain quotidien**. Pour nos clients dans l'immobilier par exemple, nous récupérons les biens en vente via une API mise à disposition par les éditeurs de logiciel immobilier ([Apimo](https://apimo.net/fr/), [Avantio](https://www.avantio.fr/), [Hektor](https://www.la-boite-immo.com/logiciel-immobilier.html), etc...).
 
-Pour nos projets nécessitant un paiement en ligne pour un achat ou un abonnement nous allons nous connecter aux API proposées par des banques ((Monetico/CIC)[https://www.monetico-paiement.fr/fr/accueil.html]), ou des intermédiaires bancaires ((Stripe)[https://stripe.com/en-fr], (Systempay)[https://paiement.systempay.fr/doc/fr-FR/]).
+Pour nos projets nécessitant un paiement en ligne pour un achat ou un abonnement nous allons nous connecter aux API proposées par des banques ([Monetico/CIC](https://www.monetico-paiement.fr/fr/accueil.html)), ou des intermédiaires bancaires ([Stripe](https://stripe.com/en-fr), [Systempay](https://paiement.systempay.fr/doc/fr-FR/)).
 
 Et nous en utilisons pour bien d'autres fonctionnalités (Connexion Réseaux sociaux, Récupération de statistiques Google Analytics, affichage de cartes, etc... )
 
-A l'inverse nous développons également des API pour vos projets afin de communiquer des informations vers l'exterieur ou échanger des données avec d'autres systèmes que vous seriez amené à vouloir utiliser. C'est le cas par exemple pour certains de nos clients dans l'immobilier où nous avons mis en place une API privée afin d'envoyer le descriptif de leurs programmes sur la plateforme de visite virtuelle (Habiteo)[https://www.habiteo.com/]
+A l'inverse nous développons également des API pour vos projets afin de communiquer des informations vers l'exterieur ou échanger des données avec d'autres systèmes que vous seriez amené à vouloir utiliser. C'est le cas par exemple pour certains de nos clients dans l'immobilier où nous avons mis en place une API privée afin d'envoyer le descriptif de leurs programmes sur la plateforme de visite virtuelle [Habiteo](https://www.habiteo.com/)
 
-Vous l'aurez compris l'équipe de Studio HB vous accompagnera pour la conception ou l'utilisation d'une API pour votre projet. N'hésitez pas à visiter (notre site)[https://www.studio-hb.com/] et (nous contacter)[https://www.studio-hb.com/contactez-nous/new] pour de plus amples informations.
+Vous l'aurez compris l'équipe de Studio HB vous accompagnera pour la conception ou l'utilisation d'une API pour votre projet. N'hésitez pas à visiter [notre site](https://www.studio-hb.com/) et [nous contacter](https://www.studio-hb.com/contactez-nous/new) pour de plus amples informations.
 
