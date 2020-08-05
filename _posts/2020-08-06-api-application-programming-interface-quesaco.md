@@ -31,7 +31,7 @@ Une API se caractérise toujours par une **interface d'entrée** (input), et **u
 
 ## ... mais une API n'est pas qu'une passerelle!
 
-Vous entendrez souvent le terme de **passerelle**, ou de **webservice** comme synonyme d'une API. C'est partiellement vrai. Un webservice va permettre la communication de 2 systèmes d'informations sur un réseau. L'API elle, va plus loin car elle va permettre l'interaction entre 2 systèmes qui peuvent être à l'intérieur d'une même application. Un webservice est par conséquent un type d'API. Il exite donc d'autres types d'API.
+Vous entendrez souvent le terme de **passerelle**, ou de **webservice** comme synonyme d'une API. C'est partiellement vrai. Un webservice va permettre la communication de 2 systèmes d'informations sur un réseau. L'API elle, va plus loin car elle va permettre l'interaction entre 2 systèmes qui peuvent être à l'intérieur d'une même application. Un webservice est par conséquent un type d'API. Il existe donc d'autres types d'API.
 
 Par exemple, pour les plus techniques d'entre vous, on le sait moins mais **ActionDispatch** qui gère le routage des requêtes HTTP est une API qui permet d'accueillir en entrée une requête HTTP et de la diriger vers le bon **Controller Rails**. **ActionController** est ainsi lui même une API permettant de traiter les informations de la requête, d'appeler d'autres API (ApplicationRecord, Services, Policies, ActionView, etc... ) afin de renvoyer en retour un contenu (HTML, JSON, XML, CSV, etc...) que votre navigateur va pouvoir interpréter.
 
@@ -41,7 +41,7 @@ Ce n'est pas tout de vouloir mettre en place des API. Encore faut-il respecter c
 
 ### Utiliser les normes et protocoles standardisés
 
-Si vous souhaitez que votre API soit facilement utilisée (consommée) par le plus grand nombre il est nécessaire que celle-ci soit développée en suivant certaines normes et protocoles standardisés. Interessons nous principalement aux API web qui sont celles que vous allez principalement rencontrer:
+Si vous souhaitez que votre API soit facilement utilisée (consommée) par le plus grand nombre il est nécessaire que celle-ci soit développée en suivant certaines normes et protocoles standardisés. Intéressons nous principalement aux API web qui sont celles que vous allez principalement rencontrer:
 
 * Le protocole de transport le plus couramment utilisé est HTTP (HTTPS pour la version sécurisée). Ce standard est reconnu et interprété par tous les systèmes d'information existants. Pas de risque d'incompatibilité avec HTTP!
 * Des architectures de webservice différentes:
