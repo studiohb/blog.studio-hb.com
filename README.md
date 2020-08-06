@@ -41,6 +41,16 @@ Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.fr/
 
 Before uploading, you should optimize them with [ImageOptim](https://imageoptim.com/mac).
 
+## Preview posts locally
+
+Clone the project, then `bundle` to install the required gems
+
+You can then launch the local server and see future posts using:
+
+```
+bundle exec jekyll serve --future
+```
+
 ## Deployment
 
 To deploy the blog on production, you simply need to push on `master`, Netlify handles everything for you.
