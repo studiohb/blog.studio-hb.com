@@ -41,7 +41,7 @@ My content
 
 Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.fr/tree/develop/assets/images) folder.
 
-Before uploading, you should optimize them with [ImageOptim](https://imageoptim.com/mac).
+Before uploading, you should resize them (recommended size 1280 * 800 px) and optimize them with [ImageOptim](https://imageoptim.com/mac) (macOS) or [Trimage](https://trimage.org/) (Linux).
 
 ## Preview posts locally
 
