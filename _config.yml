@@ -38,6 +38,14 @@ authors:
     twitter: https://twitter.com/studiohb
     description: ""
 
+  lucasbiguetmermet:
+    name: Lucas Biguet-Mermet
+    display_name: Lucas Biguet-Mermet
+    gravatar: 6da41b3b67bb76b3b84708b8cb9f66d4
+    email: l.biguet-mermet@studio-hb.com
+    web: https://www.studio-hb.com/
+    description: ""
+
 # Plugins
 plugins:
   - jekyll-paginate
