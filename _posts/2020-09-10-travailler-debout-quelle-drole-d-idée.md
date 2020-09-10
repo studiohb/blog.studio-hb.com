@@ -4,17 +4,17 @@ layout: post
 author: lucasbiguetmermet
 categories:
   - Développement
-image: 2020/09/linus.gif
-image_caption: "Linus Torvalds, inventeur de Linux, à son poste de travail / tapis-roulant"
+image: 2020/09/travailler-debout-header.png
+image_caption: "Photo: Leonard Beck"
 ---
 
-En tant que développeur, je passe prêt de 7h par jour devant mon ordinateur, et comme la plupart de mes confrères (et [les trois quarts des Français](https://www.ouest-france.fr/sante/mal-de-dos-90-des-francais-assurent-en-souffrir-4872061)), j'ai fini pas developper des problèmes de dos: douleurs, faiblesses, raideurs pouvant conduire au fameux lumbago.
+En tant que développeur, je passe près de 7h par jour devant mon ordinateur, et comme la plupart de mes confrères (et [les trois quarts des Français](https://www.ouest-france.fr/sante/mal-de-dos-90-des-francais-assurent-en-souffrir-4872061)), j'ai fini pas developper des problèmes de dos: douleurs, faiblesses, raideurs pouvant conduire au fameux lumbago.
 
 Bon, se bloquer le dos c'est marrant cinq minutes, mais quand ça devient récurrent il est temps de faire quelque chose, surtout quand on n'a même pas 30 ans. J'ai donc décidé de chercher d'où ça pouvait venir.
 
 ## Les dangers de la sédentarité
 
-Selon l'OMS la sédentarité est un problème de santé publique majeur, plus de 30% de la population mondiale est manque d'activité physique.
+Selon l'OMS la sédentarité est un problème de santé publique majeur, plus de 30% de la population mondiale manque d'activité physique.
 
 Ces comportements ont des répercussions graves à long terme sur la santé en favorisant l'apparition de douleurs qui peuvent devenir chroniques, de troubles musculo squelettiques et en accroissant le risque de developper des maladies cardio-vasculaires, qui sont pour rappel la première cause de mortalité en France.
 
@@ -29,6 +29,8 @@ Heureusement, si on ne persiste pas trop longtemps dans ces comportements le rem
 ## Travailler debout, la solution miracle ?
 
 Depuis quelques années les bureaux amovibles se démocratisent dans les open spaces, cela m'a intrigué.
+
+{% include image.html img="2020/09/linus.gif" caption="Linus Torvalds, inventeur de Linux, à son poste de travail / tapis-roulant" %}
 
 Suite au visionnage de cette [conférence un poil alarmiste mais néanmoins très intéressante](https://mixitconf.org/2019/sitting-considered-deadly) j'ai décidé de franchir le cap.
 
