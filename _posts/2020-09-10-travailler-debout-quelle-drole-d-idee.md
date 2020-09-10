@@ -4,7 +4,7 @@ layout: post
 author: lucasbiguetmermet
 categories:
   - Développement
-image: 2020/09/travailler-debout-header.png
+image: 2020/09/travailler-debout-header.jpg
 image_caption: "Photo: Leonard Beck"
 ---
 
@@ -34,7 +34,7 @@ Depuis quelques années les bureaux amovibles se démocratisent dans les open sp
 
 Suite au visionnage de cette [conférence un poil alarmiste mais néanmoins très intéressante](https://mixitconf.org/2019/sitting-considered-deadly) j'ai décidé de franchir le cap.
 
-Dans cette conférence il propose un bricolage de bureau debout pour pouvoir tester à moindre frais, j'avais justement une table d'une célebre marque de meubles Suédoise qui trainait dans mon grenier, ça m'a permit de fabriquer ce magnifique prototype:
+Dans cette conférence le speaker propose un bricolage de bureau debout pour pouvoir tester à moindre frais. J'avais justement une table d'une célebre marque de meubles Suédoise qui trainait dans mon grenier, ce qui m'a permis de fabriquer ce magnifique prototype:
 
 {% include image.html img="2020/09/standup-desk-v1.jpg" caption="Dans le métier on appelle ça un MVP" %}
 
