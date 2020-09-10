@@ -10,6 +10,8 @@ You'll find all informations you need on their documentations.
 
 You can add authors in the [config file](https://github.com/studiohb/blog.studio-hb.fr/blob/develop/_config.yml) if needed.
 
+To generate a Gravatar hash simply sign up to Gravatar and fill the form here: https://en.gravatar.com/site/check/
+
 ### Write a post
 
 To write a post, you need to create a Markdown file in the `_posts` folder. At the very beginning of the file you need to change the [Front Matter](https://jekyllrb.com/docs/front-matter/) config, for instance :
@@ -39,7 +41,7 @@ My content
 
 Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.fr/tree/develop/assets/images) folder.
 
-Before uploading, you should optimize them with [ImageOptim](https://imageoptim.com/mac).
+Before uploading, you should resize them (recommended size 1280 * 800 px) and optimize them with [ImageOptim](https://imageoptim.com/mac) (macOS) or [Trimage](https://trimage.org/) (Linux).
 
 ## Preview posts locally
 
