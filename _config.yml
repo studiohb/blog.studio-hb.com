@@ -46,6 +46,14 @@ authors:
     web: https://www.studio-hb.com/
     description: ""
 
+  charlottemassanes:
+    name: Charlotte Massanès
+    display_name: Charlotte Massanès
+    gravatar: f3be2802b49fa0418bc97612d3cb96ab
+    email: c.massanes@studio-hb.com
+    web: https://www.studio-hb.com/
+    description: ""
+
 # Plugins
 plugins:
   - jekyll-paginate

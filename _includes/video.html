@@ -1,0 +1,23 @@
+{% capture video_url %}
+    {% if include.src contains "://" %}
+        {{ include.src }}
+    {% else %}
+        {{ include.src | prepend: '/assets/images/' | prepend: site.baseurl }}
+    {% endif %}
+{% endcapture %}
+
+{% capture alt %}
+    {% if include.alt %}
+        {{ include.alt }}
+    {% else %}
+        {{ include.title }}
+    {% endif %}
+{% endcapture %}
+
+<div class="d-flex flex-column align-items-center py-4">
+    <video src="{{ video_url | strip }}" alt="{{ alt | strip }}" lazy="loading" autoplay="true" loop="true"></video>
+
+    {% if include.caption %}
+        <span class="mt-2 font-italic text-muted">{{ include.caption }}</span>
+    {% endif %}
+</div>
