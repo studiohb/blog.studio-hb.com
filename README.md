@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6f73ae44-1fd4-4a3b-8c84-40652b68aae3/deploy-status)](https://app.netlify.com/sites/blog-studio-hb/deploys)
 
-# blog.studio-hb.fr
+# blog.studio-hb.com
 
 This blog is powered by [Jekyll](https://jekyllrb.com/) and hosted by [Netlify](https://www.netlify.com/).
 
@@ -8,7 +8,7 @@ You'll find all informations you need on their documentations.
 
 ## Getting started
 
-You can add authors in the [config file](https://github.com/studiohb/blog.studio-hb.fr/blob/develop/_config.yml) if needed.
+You can add authors in the [config file](https://github.com/studiohb/blog.studio-hb.com/blob/develop/_config.yml) if needed.
 
 To generate a Gravatar hash simply sign up to Gravatar and fill the form here: https://en.gravatar.com/site/check/
 
@@ -39,7 +39,7 @@ To display images in the post, you need to include the `image.html` partial, for
 My content
 ```
 
-Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.fr/tree/develop/assets/images) folder.
+Images are in the [assets/images](https://github.com/studiohb/blog.studio-hb.com/tree/develop/assets/images) folder.
 
 Before uploading, you should resize them (recommended size 1280 * 800 px) and optimize them with [ImageOptim](https://imageoptim.com/mac) (macOS) or [Trimage](https://trimage.org/) (Linux).
 
