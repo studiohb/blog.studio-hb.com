@@ -83,7 +83,7 @@ De la même façon que l’utilisation du gif, il y a moins d’efforts à faire
 À Studio HB on a décidé d'intégrer le player lottie dans un composant qui être hérité par un composant vue.js qui lui se charge de lui envoyer le bon fichier json. 
 
 Composant vue.js à chaque animation : 
-```
+```js
 <script>
 import LottieAnimationBase from '@utils/lottie-animation.js'
 import JsonData from '@animations/man.json'
@@ -96,7 +96,7 @@ export default {
 </script>
 ```
 Composant du player lottie réutilisable : 
-```
+```js
 import lottie from 'lottie-web'
 
 export default {
