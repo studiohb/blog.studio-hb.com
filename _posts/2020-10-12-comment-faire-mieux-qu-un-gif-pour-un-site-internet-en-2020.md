@@ -15,7 +15,7 @@ Avant de commencer dans le vif du sujet précisons de quels genres d’animation
 
 On peut séparer les animations web en deux grandes familles : 
 
-- Animations à but “illustratif”
+- Animations à but “illustratives”
 
 {% include image.html img="2020/10/orange.png" caption="Animation tirée du compte dribble Kankan" %}
 
