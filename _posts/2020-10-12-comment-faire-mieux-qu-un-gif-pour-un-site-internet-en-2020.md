@@ -37,7 +37,7 @@ Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloir
 
 Ces deux dernières solutions ont des inconvénients, le premier utilise des images très volumineuse souvent en png et alourdis le chargement du site. Le gif est lui aussi un format d’image assez lourd et visuellement il compresse les couleurs qui ne donne jamais une très bonne qualité d’animation par rapport au reste du site (sans oublier qu’on ne peut pas utiliser de gif sur fond transparent)
 
-## Quelles solutions moderne pour intégrer des animations complexes en 2020 ?
+## Quelles solutions modernes pour intégrer des animations complexes en 2020 ?
 
 Il y a trois réponses à cette question : 
 
