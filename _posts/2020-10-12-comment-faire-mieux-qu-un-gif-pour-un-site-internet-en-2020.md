@@ -45,17 +45,17 @@ Ces deux dernières solutions ont des inconvénients, le premier utilise des ima
 
 Trois options s'offrent à nous : 
 
-1. Utiliser une vidéo en boucle 💔
+### 1. Utiliser une vidéo en boucle 💔
 
 Dans certains cas utiliser une vidéo peut sembler une bonne solution si c’est un cas isolé sur le site, attention toutefois elle peut rapidement surcharger le site s'il s'agit d’ajouter plusieurs animations il faudra passer sur une autre solution.
 
-2. Créer les animations “from scratch” 🔥💜
+### 2. Créer les animations “from scratch” 🔥💜
 
 Avec les keyframes CSS ou en utilisant des librairies d’animation comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer. 
 
 C’est la solution la plus personnalisable mais le temps investi par le développeur et le designer peut vite devenir onéreux pour un projet. Il faut aussi une certaine expertise du développeur en javascript pour arriver à reproduire les animations. On ne peut également pas utiliser le même code sur plusieurs plateforme (si par exemple le client possède une application native et un site internet).
 
-3. Utiliser un outil comme Lottie et Bodymovin 🔥💜
+### 3. Utiliser un outil comme Lottie et Bodymovin 🔥💜
 
 Pour palier à ces problématiques AirBnB à développé [Lottie](https://airbnb.design/lottie/), sa propre librairie cross plateforme (iOS, Android, React Native et web) qui permet de lancer des animations à partir d’un fichier json exporté depuis le plugin [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html) d’after effects.
 
