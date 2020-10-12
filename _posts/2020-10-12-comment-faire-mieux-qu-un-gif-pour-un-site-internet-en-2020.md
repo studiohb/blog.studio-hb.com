@@ -29,7 +29,7 @@ Pour mieux comprendre faisons un point historique sur ce qu’il s’est passé 
 
 Les animations complexe à base de sprite ont été encore beaucoup utilisées avec du javascript moderne et sont le vestige de ce que faisaient les intégrateurs flash à l’époque.
 
-[image]
+{% include image.html img="2020/10/sprite.png" caption="Exemple d’un magnifique sprite de pigeons" %}
 
 Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif. 
 
@@ -148,5 +148,10 @@ export default {
 ## Conclusion
 
 L’utilisation de Lottie est une bonne surprise, son utilisation est plutôt simple et rapide à mettre en place et apporte un vrai bénéfice quand il y a plusieurs animations à charger sur le même projet. En revanche, si il faut charger lottie juste pour un cas isolé il vaudrait mieux essayer de trouver une solution en css ou en javascript.
+
+| Gif | Video | From scratch | Lottie |
+| ------ | ------ |------ | ------ |
+| Oh no dear, Why ? | C’est lourd, Pas cool | C'est cool mais ça prend du temps | C'est cool mais ça prend moins de temps |
+| 💔 | 💔 | 🔥💜 | 🔥💜 |
 
 Lottie permet d’intégrer la notion de motion design dans la conception de nos futurs sites internet. À Studio HB le retour d’expérience est positif sur le premier projet sur lequel il a été installé, qui nous a permis d’intégrer des animations personnalisée facilement ! 
