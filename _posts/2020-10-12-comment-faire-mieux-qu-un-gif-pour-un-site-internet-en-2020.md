@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comment faire mieux qu’un gif pour un site internet en 2020"
+title:  "Et Lottie, on en pense quoi à Studio HB ?"
 author: celinechamiot
 categories:
   - Développement
@@ -23,13 +23,17 @@ On peut séparer les animations web en deux grandes familles :
 
 Les éléments évoqués dans cet article ne concerne pas les animations du deuxième groupes et feront peut-être l’objet d’un deuxième article dédié à ce sujet.
 
-## Petit point historique
+## Petit point historique sur les "animations" dans le web
 
 Pour mieux comprendre faisons un point historique sur ce qu’il s’est passé dans le web concernant les animations. Il y a quelques années de ça, Flash était une des seules technologies permettant de faire des animations dans une page web (ok boomer si tu travaillais déjà dans le web à cette époque). Et pourtant, même si la technologie a été de plus en plus abandonnée depuis l’arrivé du HTML5 et CSS3, les techniques d’animations sont restées et ont été adaptés aux nouveaux standard du web par la suite.
 
-Les animations complexe à base de sprite ont été encore beaucoup utilisées avec du javascript moderne et sont le vestige de ce que faisaient les intégrateurs flash à l’époque.
+### Les animations avec les sprites
+
+Elles ont été encore beaucoup utilisées avec du javascript moderne et sont le vestige de ce que faisaient les intégrateurs flash à l’époque.
 
 {% include image.html img="2020/10/sprite.png" caption="Exemple d’un magnifique sprite de pigeons" %}
+
+### Les animations avec des gifs
 
 Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif. 
 
@@ -37,21 +41,21 @@ Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloir
 
 Ces deux dernières solutions ont des inconvénients, le premier utilise des images très volumineuse souvent en png et alourdis le chargement du site. Le gif est lui aussi un format d’image assez lourd et visuellement il compresse les couleurs qui ne donne jamais une très bonne qualité d’animation par rapport au reste du site (sans oublier qu’on ne peut pas utiliser de gif sur fond transparent)
 
-## Quelles solutions modernes pour intégrer des animations complexes en 2020 ?
+## Et en 2020 comment intègre-t-on des animations complexes sans passer par le GIF ?
 
-Il y a trois réponses à cette question : 
+Trois options s'offrent à nous : 
 
-1. Utiliser une vidéo en boucle
+1. Utiliser une vidéo en boucle 💔
 
 Dans certains cas utiliser une vidéo peut sembler une bonne solution si c’est un cas isolé sur le site, attention toutefois elle peut rapidement surcharger le site s'il s'agit d’ajouter plusieurs animations il faudra passer sur une autre solution.
 
-2. Créer les animations “from scratch” 
+2. Créer les animations “from scratch” 🔥💜
 
 Avec les keyframes CSS ou en utilisant des librairies d’animation comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer. 
 
 C’est la solution la plus personnalisable mais le temps investi par le développeur et le designer peut vite devenir onéreux pour un projet. Il faut aussi une certaine expertise du développeur en javascript pour arriver à reproduire les animations. On ne peut également pas utiliser le même code sur plusieurs plateforme (si par exemple le client possède une application native et un site internet).
 
-3. Utiliser un outil comme Lottie et Bodymovin
+3. Utiliser un outil comme Lottie et Bodymovin 🔥💜
 
 Pour palier à ces problématiques AirBnB à développé [Lottie](https://airbnb.design/lottie/), sa propre librairie cross plateforme (iOS, Android, React Native et web) qui permet de lancer des animations à partir d’un fichier json exporté depuis le plugin [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html) d’after effects.
 
@@ -62,7 +66,7 @@ En développant cette librairie AirBnB avait pour but de :
 - Améliorer le temps de chargement en utilisant des canvas et du vectoriel à la place des sprites png
 - Pouvoir interagir en code avec l’animation
 
-## Exemples d’animations faites à Studio HB pour le projet MOHOM avec Lottie
+## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet MOHOM avec Lottie
 
 https://codepen.io/opendeal/project/full/AJYaxj
 
@@ -71,12 +75,12 @@ https://codepen.io/opendeal/project/full/AJYaxj
 Les 5 commandements du designer qui utilise Lottie : 
 
 1. [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html), tu installeras (sur ton After Effect)
-2. Tu n’utiliseras que les outils de base d’after effect et tu consulteras ceux qui sont supportés par le plugin à l’export : [Documentation Lottie](https://airbnb.io/lottie/#/supported-features)
-3. Tu n’utiliseras pas d’images png dans ton animation
-4. Tu utiliseras [l’outil de prévisualisation créer par AirBnB](https://lottiefiles.com/web-player) pour vérifier que l’export à bien fonctionné
-5. Admire et pleure de joie devant ton animation 
+1. Outils de base d'after effect tu utiliseras: [Documentation Lottie](https://airbnb.io/lottie/#/supported-features)
+2. Des images SVG tu feras
+3. [L'outil de Prévisualisation de Airbnb](https://lottiefiles.com/web-player) tu utiliseras
+4. Ton animation tu admireras
 
-## Intégration de Lottie avec Vuejs
+## Comment intègre-t-on Lottie avec Vuejs ?
 
 De la même façon que l’utilisation du gif, il y a moins d’efforts à faire côté développement. Le développeur front doit mettre en place le player lottie sur son site au bon endroit et charger le fichier json. 
 
@@ -145,7 +149,7 @@ export default {
 }
 ```
 
-## Conclusion
+## Conclustion, on valide pour Lottie !
 
 L’utilisation de Lottie est une bonne surprise, son utilisation est plutôt simple et rapide à mettre en place et apporte un vrai bénéfice quand il y a plusieurs animations à charger sur le même projet. En revanche, si il faut charger lottie juste pour un cas isolé il vaudrait mieux essayer de trouver une solution en css ou en javascript.
 
