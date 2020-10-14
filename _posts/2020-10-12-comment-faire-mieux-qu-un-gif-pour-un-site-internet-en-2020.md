@@ -66,7 +66,9 @@ En développant cette librairie AirBnB avait pour but de :
 - Améliorer le temps de chargement en utilisant des canvas et du vectoriel à la place des sprites png
 - Pouvoir interagir en code avec l’animation
 
-## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet MOHOM avec Lottie
+## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet [MOHOM](https://www.mohom.com/notre-story) avec Lottie
+
+{% include image.html img="2020/10/mohom-illu.jpg" caption="Illustration page "Notre Story" du projet MOHOM" %}
 
 [Lien Codepen](https://codepen.io/opendeal/project/full/AJYaxj)
 
