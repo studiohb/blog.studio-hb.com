@@ -7,19 +7,19 @@ categories:
 image: 2020/04/puzzle.jpg
 ---
 
-Les animations ont une place importante dans le design et la conception d’une solution digitale, l’animation rend le produit plus attractif et permet de créer du lien émotionnel avec l’utilisateur. À Studio HB on se pose souvent la question de quelles solutions mettre en place sur nos projets et pour quels besoins, essayons de nous éclairer sur le sujet avec cet article. 
+Les animations ont une place importante dans le design et la conception d’une solution digitale, l’animation rend le produit plus attractif et permet de créer du lien émotionnel avec l’utilisateur. À Studio HB on se pose souvent la question de quelles solutions mettre en place sur nos projets et pour quels besoins, essayons de nous éclairer sur le sujet avec cet article.
 
 ## De quelles animations on parle exactement ?
 
 Avant de commencer dans le vif du sujet précisons de quels genres d’animations on va parler !
 
-On peut séparer les animations web en deux grandes familles : 
+On peut séparer les animations web en deux grandes familles :
 
 - Animations à but “illustratives”
 
-{% include image.html img="2020/10/orange.png" caption="Animation tirée du compte dribble Kankan" %}
+{% include image.html img="2020/10/orange.gif" caption="Animation tirée du compte dribble Kankan" %}
 
-- Animations immersives (parallaxe, rollover, zoom au scroll) 
+- Animations immersives (parallaxe, rollover, zoom au scroll)
 
 Les éléments évoqués dans cet article ne concerne pas les animations du deuxième groupes et feront peut-être l’objet d’un deuxième article dédié à ce sujet.
 
@@ -31,11 +31,11 @@ Pour mieux comprendre faisons un point historique sur ce qu’il s’est passé 
 
 Elles ont été encore beaucoup utilisées avec du javascript moderne et sont le vestige de ce que faisaient les intégrateurs flash à l’époque.
 
-{% include image.html img="2020/10/sprite.png" caption="Exemple d’un magnifique sprite de pigeons" %}
+{% include image.html img="2020/10/sprite.jpg" caption="Exemple d’un magnifique sprite de pigeons" %}
 
 ### Les animations avec des gifs
 
-Mais aussi, on n'oublie pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif. 
+Mais aussi, on n'oublie pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif.
 
 {% include image.html img="2020/10/baymax.gif" caption="Animation tirée du compte dribble BombashLin" %}
 
@@ -43,7 +43,7 @@ Ces deux dernières solutions ont des inconvénients, le premier utilise des ima
 
 ## Et en 2020 comment intègre-t-on des animations complexes sans passer par le GIF ?
 
-Trois options s'offrent à nous : 
+Trois options s'offrent à nous :
 
 ### 1. Utiliser une vidéo en boucle 💔
 
@@ -51,7 +51,7 @@ Dans certains cas utiliser une vidéo peut sembler une bonne solution si c’est
 
 ### 2. Créer les animations “from scratch” 🔥💜
 
-Avec les keyframes CSS ou en utilisant des librairies d’animations comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer. 
+Avec les keyframes CSS ou en utilisant des librairies d’animations comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer.
 
 C’est la solution la plus personnalisable mais le temps investi par le développeur et le designer peut vite devenir onéreux pour un projet. Il faut aussi une certaine expertise du développeur en javascript pour arriver à reproduire les animations. On ne peut également pas utiliser le même code sur plusieurs plateforme (si par exemple le client possède une application native et un site internet).
 
@@ -59,7 +59,7 @@ C’est la solution la plus personnalisable mais le temps investi par le dévelo
 
 Pour palier à ces problématiques AirBnB à développé [Lottie](https://airbnb.design/lottie/), sa propre librairie cross plateforme (iOS, Android, React Native et web) qui permet de lancer des animations à partir d’un fichier json exporté depuis le plugin [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html) d’after effects.
 
-En développant cette librairie AirBnB avait pour but de : 
+En développant cette librairie AirBnB avait pour but de :
 
 - Simplifier les échanges entre les designers et les développeurs
 - Proposer une solution rapide et moins onéreuse d’animation (à l’instar du gif mais en mieux)
@@ -68,13 +68,13 @@ En développant cette librairie AirBnB avait pour but de :
 
 ## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet [MOHOM](https://www.mohom.com/notre-story) avec Lottie
 
-{% include image.html img="2020/10/mohom-illu.jpg" caption="Illustration page "Notre Story" du projet MOHOM" %}
+{% include image.html img="2020/10/mohom-illu.jpg" caption="Illustration page \"Notre Story\" du projet MOHOM" %}
 
 [Lien Codepen](https://codepen.io/opendeal/project/full/AJYaxj)
 
 ## Que dire à son designer avant qu’il prenne en main Lottie et After Effect ?
 
-Les 5 commandements du designer qui utilise Lottie : 
+Les 5 commandements du designer qui utilise Lottie :
 
 1. [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html), tu installeras (sur ton After Effect)
 1. Outils de base d'after effect tu utiliseras: [Documentation Lottie](https://airbnb.io/lottie/#/supported-features)
@@ -84,11 +84,11 @@ Les 5 commandements du designer qui utilise Lottie :
 
 ## Comment intègre-t-on Lottie avec Vuejs ?
 
-De la même façon que l’utilisation du gif, il y a moins d’efforts à faire côté développement. Le développeur front doit mettre en place le player lottie sur son site au bon endroit et charger le fichier json. 
+De la même façon que l’utilisation du gif, il y a moins d’efforts à faire côté développement. Le développeur front doit mettre en place le player lottie sur son site au bon endroit et charger le fichier json.
 
-Chez Studio HB on a décidé d'intégrer le player lottie dans un composant qui est hérité par un composant vue.js. Il se charge de lui envoyer le bon fichier json. 
+Chez Studio HB on a décidé d'intégrer le player lottie dans un composant qui est hérité par un composant vue.js. Il se charge de lui envoyer le bon fichier json.
 
-Composant vue.js à chaque animation : 
+Composant vue.js à chaque animation :
 ```js
 <script>
 import LottieAnimationBase from '@utils/lottie-animation.js'
@@ -101,7 +101,7 @@ export default {
 }
 </script>
 ```
-Composant du player lottie réutilisable : 
+Composant du player lottie réutilisable :
 ```js
 import lottie from 'lottie-web'
 
@@ -160,4 +160,4 @@ L’utilisation de Lottie est une bonne surprise, la librairie est plutôt simpl
 | Oh no dear, Why ? | C’est lourd, Pas cool | C'est cool mais ça prend du temps | C'est cool mais ça prend moins de temps |
 | 💔 | 💔 | 🔥💜 | 🔥💜 |
 
-Lottie permet d’intégrer la notion de motion design dans la conception de nos futurs sites internet. À Studio HB le retour d’expérience est positif sur le premier projet sur lequel il a été installé, qui nous a permis d’intégrer des animations personnalisées facilement ! 
+Lottie permet d’intégrer la notion de motion design dans la conception de nos futurs sites internet. À Studio HB le retour d’expérience est positif sur le premier projet sur lequel il a été installé, qui nous a permis d’intégrer des animations personnalisées facilement !
