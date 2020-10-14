@@ -35,7 +35,7 @@ Elles ont été encore beaucoup utilisées avec du javascript moderne et sont le
 
 ### Les animations avec des gifs
 
-Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif. 
+Mais aussi, on n'oublie pas notre ami le gif, qui a eu lui aussi son heure de gloire dans l’utilisation de site web comme moyen plus rapide d’ajouter un petit plus interactif. 
 
 {% include image.html img="2020/10/baymax.gif" caption="Animation tirée du compte dribble BombashLin" %}
 
@@ -61,14 +61,14 @@ Pour palier à ces problématiques AirBnB à développé [Lottie](https://airbnb
 
 En développant cette librairie AirBnB avait pour but de : 
 
-- Simplifier les échanges entre les désigner et les développeurs
+- Simplifier les échanges entre les designers et les développeurs
 - Proposer une solution rapide et moins onéreuse d’animation (à l’instar du gif mais en mieux)
 - Améliorer le temps de chargement en utilisant des canvas et du vectoriel à la place des sprites png
 - Pouvoir interagir en code avec l’animation
 
 ## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet MOHOM avec Lottie
 
-https://codepen.io/opendeal/project/full/AJYaxj
+[Lien Codepen](https://codepen.io/opendeal/project/full/AJYaxj)
 
 ## Que dire à son designer avant qu’il prenne en main Lottie et After Effect ?
 
