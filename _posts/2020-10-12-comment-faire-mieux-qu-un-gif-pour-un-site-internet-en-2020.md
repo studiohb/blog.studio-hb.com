@@ -25,7 +25,7 @@ Les éléments évoqués dans cet article ne concerne pas les animations du deux
 
 ## Petit point historique sur les "animations" dans le web
 
-Pour mieux comprendre faisons un point historique sur ce qu’il s’est passé dans le web concernant les animations. Il y a quelques années de ça, Flash était une des seules technologies permettant de faire des animations dans une page web (ok boomer si tu travaillais déjà dans le web à cette époque). Et pourtant, même si la technologie a été de plus en plus abandonnée depuis l’arrivé du HTML5 et CSS3, les techniques d’animations sont restées et ont été adaptés aux nouveaux standard du web par la suite.
+Pour mieux comprendre faisons un point historique sur ce qu’il s’est passé dans le web concernant les animations. Il y a quelques années de ça, Flash était une des seules technologies permettant de faire des animations dans une page web (ok boomer si tu travaillais déjà dans le web à cette époque). Et pourtant, même si la technologie a été de plus en plus abandonnée depuis l’arrivé du HTML5 et CSS3, les techniques d’animations sont restées et ont été adaptées aux nouveaux standards du web par la suite.
 
 ### Les animations avec les sprites
 
@@ -39,7 +39,7 @@ Mais aussi, on oubli pas notre ami le gif, qui a eu lui aussi son heure de gloir
 
 {% include image.html img="2020/10/baymax.gif" caption="Animation tirée du compte dribble BombashLin" %}
 
-Ces deux dernières solutions ont des inconvénients, le premier utilise des images très volumineuse souvent en png et alourdis le chargement du site. Le gif est lui aussi un format d’image assez lourd et visuellement il compresse les couleurs qui ne donne jamais une très bonne qualité d’animation par rapport au reste du site (sans oublier qu’on ne peut pas utiliser de gif sur fond transparent)
+Ces deux dernières solutions ont des inconvénients, le premier utilise des images très volumineuses souvent en png et alourdit le chargement du site. Le gif est lui aussi un format d’image assez lourd et visuellement il compresse les couleurs qui ne donne jamais une très bonne qualité d’animation par rapport au reste du site (sans oublier qu’on ne peut pas utiliser de gif sur fond transparent)
 
 ## Et en 2020 comment intègre-t-on des animations complexes sans passer par le GIF ?
 
@@ -51,7 +51,7 @@ Dans certains cas utiliser une vidéo peut sembler une bonne solution si c’est
 
 ### 2. Créer les animations “from scratch” 🔥💜
 
-Avec les keyframes CSS ou en utilisant des librairies d’animation comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer. 
+Avec les keyframes CSS ou en utilisant des librairies d’animations comme [GSAP](https://greensock.com/gsap/) à partir d’une intention d’animation par un designer. 
 
 C’est la solution la plus personnalisable mais le temps investi par le développeur et le designer peut vite devenir onéreux pour un projet. Il faut aussi une certaine expertise du développeur en javascript pour arriver à reproduire les animations. On ne peut également pas utiliser le même code sur plusieurs plateforme (si par exemple le client possède une application native et un site internet).
 
@@ -84,7 +84,7 @@ Les 5 commandements du designer qui utilise Lottie :
 
 De la même façon que l’utilisation du gif, il y a moins d’efforts à faire côté développement. Le développeur front doit mettre en place le player lottie sur son site au bon endroit et charger le fichier json. 
 
-À Studio HB on a décidé d'intégrer le player lottie dans un composant qui être hérité par un composant vue.js qui lui se charge de lui envoyer le bon fichier json. 
+Chez Studio HB on a décidé d'intégrer le player lottie dans un composant qui est hérité par un composant vue.js. Il se charge de lui envoyer le bon fichier json. 
 
 Composant vue.js à chaque animation : 
 ```js
@@ -151,7 +151,7 @@ export default {
 
 ## Conclustion, on valide pour Lottie !
 
-L’utilisation de Lottie est une bonne surprise, son utilisation est plutôt simple et rapide à mettre en place et apporte un vrai bénéfice quand il y a plusieurs animations à charger sur le même projet. En revanche, si il faut charger lottie juste pour un cas isolé il vaudrait mieux essayer de trouver une solution en css ou en javascript.
+L’utilisation de Lottie est une bonne surprise, la librairie est plutôt simple et rapide à mettre en place et apporte un vrai bénéfice quand il y a plusieurs animations à charger sur le même projet. En revanche, s'il faut charger lottie juste pour un cas isolé il vaudrait mieux essayer de trouver une solution en css ou en javascript.
 
 | Gif | Video | From scratch | Lottie |
 | ------ | ------ |------ | ------ |
