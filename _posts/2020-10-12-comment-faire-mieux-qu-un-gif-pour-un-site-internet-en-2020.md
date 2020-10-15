@@ -60,7 +60,6 @@ C’est la solution la plus personnalisable mais le temps investi par le dévelo
   Drawn path keyframe  css </a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### 3. Utiliser un outil comme Lottie et Bodymovin 🔥💜
 
@@ -82,7 +81,6 @@ Illustration page \"Notre Story\" du projet [MOHOM](https://www.mohom.com/notre-
   Bazjxor</a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Que dire à son designer avant qu’il prenne en main Lottie et After Effect ?
 
@@ -173,3 +171,5 @@ L’utilisation de Lottie est une bonne surprise, la librairie est plutôt simpl
 | 💔 | 💔 | 🔥💜 | 🔥💜 |
 
 Lottie permet d’intégrer la notion de motion design dans la conception de nos futurs sites internet. À Studio HB le retour d’expérience est positif sur le premier projet sur lequel il a été installé, qui nous a permis d’intégrer des animations personnalisées facilement !
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
