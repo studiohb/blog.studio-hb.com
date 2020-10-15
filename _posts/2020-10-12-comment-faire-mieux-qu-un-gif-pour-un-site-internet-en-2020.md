@@ -55,6 +55,13 @@ Avec les keyframes CSS ou en utilisant des librairies d’animations comme [GSAP
 
 C’est la solution la plus personnalisable mais le temps investi par le développeur et le designer peut vite devenir onéreux pour un projet. Il faut aussi une certaine expertise du développeur en javascript pour arriver à reproduire les animations. On ne peut également pas utiliser le même code sur plusieurs plateforme (si par exemple le client possède une application native et un site internet).
 
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-user="opendeal" data-slug-hash="vYOZbNg" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Drawn path keyframe  css ">
+  <span>See the Pen <a href="https://codepen.io/opendeal/pen/vYOZbNg">
+  Drawn path keyframe  css </a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ### 3. Utiliser un outil comme Lottie et Bodymovin 🔥💜
 
 Pour palier à ces problématiques AirBnB à développé [Lottie](https://airbnb.design/lottie/), sa propre librairie cross plateforme (iOS, Android, React Native et web) qui permet de lancer des animations à partir d’un fichier json exporté depuis le plugin [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.html) d’after effects.
@@ -73,6 +80,13 @@ Illustration page \"Notre Story\" du projet [MOHOM](https://www.mohom.com/notre-
 <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="opendeal" data-slug-hash="Bazjxor" style="height: 800px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Bazjxor">
   <span>See the Pen <a href="https://codepen.io/opendeal/pen/Bazjxor">
   Bazjxor</a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="opendeal" data-slug-hash="NWrxMjE" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Bodymovin Article Lottie - Animation étoile">
+  <span>See the Pen <a href="https://codepen.io/opendeal/pen/NWrxMjE">
+  Bodymovin Article Lottie - Animation étoile</a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
