@@ -4,7 +4,7 @@ title:  "Et Lottie, on en pense quoi à Studio HB ?"
 author: celinechamiot
 categories:
   - Développement
-image: 2020/04/puzzle.jpg
+image: 2020/10/article_celine.png
 ---
 
 Les animations ont une place importante dans le design et la conception d’une solution digitale, l’animation rend le produit plus attractif et permet de créer du lien émotionnel avec l’utilisateur. À Studio HB on se pose souvent la question de quelles solutions mettre en place sur nos projets et pour quels besoins, essayons de nous éclairer sur le sujet avec cet article.
@@ -157,7 +157,7 @@ L’utilisation de Lottie est une bonne surprise, la librairie est plutôt simpl
 
 | Gif | Video | From scratch | Lottie |
 | ------ | ------ |------ | ------ |
-| Oh no dear, Why ? | C’est lourd, Pas cool | C'est cool mais ça prend du temps | C'est cool mais ça prend moins de temps |
+| Oh no dear, Why ? | C’est lourd, Pas cool | C'est cool et ça prend du temps | C'est cool et ça prend moins de temps |
 | 💔 | 💔 | 🔥💜 | 🔥💜 |
 
 Lottie permet d’intégrer la notion de motion design dans la conception de nos futurs sites internet. À Studio HB le retour d’expérience est positif sur le premier projet sur lequel il a été installé, qui nous a permis d’intégrer des animations personnalisées facilement !
