@@ -68,9 +68,14 @@ En développant cette librairie AirBnB avait pour but de :
 
 ## Passons à la pratique ! On vous montre comment on a appliqué cette méthode pour notre projet [MOHOM](https://www.mohom.com/notre-story) avec Lottie
 
-{% include image.html img="2020/10/mohom-illu.jpg" caption="Illustration page \"Notre Story\" du projet MOHOM" %}
+Illustration page \"Notre Story\" du projet [MOHOM](https://www.mohom.com/notre-story) 
 
-[Lien Codepen](https://codepen.io/opendeal/project/full/AJYaxj)
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="opendeal" data-slug-hash="Bazjxor" style="height: 800px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Bazjxor">
+  <span>See the Pen <a href="https://codepen.io/opendeal/pen/Bazjxor">
+  Bazjxor</a> by Chamiot Céline (<a href="https://codepen.io/opendeal">@opendeal</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Que dire à son designer avant qu’il prenne en main Lottie et After Effect ?
 
