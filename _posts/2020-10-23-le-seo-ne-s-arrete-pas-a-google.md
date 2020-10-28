@@ -20,7 +20,7 @@ Sur sa plateforme, le géant américain dicte ses lois. Le traitement qui est ef
 
 L'algorithme évolue perpétuellement dans le but de rendre les résultats toujours plus pertinent pour les utilisateurs, mais aussi et surtout pour augmenter la rentabilité du moteur de recherche. On le voit avec la mise en avant de plus en plus marquée des contenus payants en première page. C'est ce qu'on appelle le SEA (Search Engine Advertising).
 
-{% include image.html img="2020/10/google-search-console.jpg" alt="Google Search Console sur Unsplash." %}
+{% include image.html img="2020/10/google-search-console.jpg" caption="Google Search Console sur Unsplash." %}
 
 **Le nombre d'éléments à prendre en compte pour être le mieux référencer possible augmente naturellement en fonction des mises à jour de l'algorithme.** On le remarque depuis quelques temps, le moteur de recherche est très sévère dans l'appréciation de ces règles et il faut savoir s'adapter très vite. Pour le meilleur et pour le pire. Ainsi, si un site ne s'occupe pas régulièrement de son SEO, **perdra forcement des points et descendra** et descendra ainsi dans la liste des sites référencés.
 
@@ -30,7 +30,7 @@ Vous en avez peut-être déjà entendu parler, mais les frameworks JavaScript te
 
 C'est à la charge du développeur de mettre en place une solution de contournement pour pouvoir utiliser ses technologies et ainsi pouvoir être vu par tous les outils qui ont besoin d'accéder au site Web. En effet, le contenu d'une page avec ses outils, n'est diponible qu'après le premier chargement dans votre navigateur. Si un robot n'est pas capable de simuler automatiquement un navigateur et d'exécuter le contenu de la page, il verra **une page blanche**.
 
-{% include image.html img="2020/10/react-seo.png" alt="Site fait en React vu par Google." %}
+{% include image.html img="2020/10/react-seo.png" caption="Site fait en React vu par Google." %}
 
 Google a dû mettre en place le moyen de pouvoir interpréter ses outils pour pouvoir les voir. Il n'y a pas beaucoup d'entreprises qui ont les moyens technologiques et financiers de mettre en place une telle prouesse. Malheureusement, Google fait partie des seuls à l'avoir fait et les résultats ne sont pas encore parfaits.
 
