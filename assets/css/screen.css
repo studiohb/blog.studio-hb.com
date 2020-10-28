@@ -344,7 +344,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #2427C1;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -695,6 +695,10 @@ ul.tags li a:hover {
     font-weight: 700;
     margin-bottom: 0.5rem;
     margin-top: 2rem;
+}
+
+.article-post h3 {
+    font-size: 1.5rem;
 }
 
 .article-post img.shadow {
