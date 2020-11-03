@@ -4,6 +4,8 @@ layout: post
 author: mariebodin
 categories:
   - Design
+image: 2020/11/wireframe.png
+image_caption: "Illustration par : lofiwireframekit.com"
 ---
 
 ## “ C’est quoi tous ces blocs gris ? et pourquoi toute la maquette est grise ? ”
