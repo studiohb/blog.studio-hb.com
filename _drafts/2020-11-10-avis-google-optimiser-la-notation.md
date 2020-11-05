@@ -103,7 +103,10 @@ L'autre solution nous, l'avons trouvé sur le site [Numeriblog](https://thierryv
 
 #### 3. Le nec plus ultra: Le QR code
 Une fois le lien créé pour aller encore plus loint vous pouvez également le mettre derrière un **QR code**. Vous pourrez alors le faire apparaître sur vos prospectus, publicités ou directement dans votre agence!
-Pour transformer le lien en QR code rien de plus simple, rendez-vous sur ce [site](https://fr.qr-code-generator.com/), renseignez le lien que vous avez récupéré ci-dessus et téléchargez le QR code généré!
+Pour transformer le lien en QR code rien de plus simple:
+1. Rendez-vous sur ce [site](https://fr.qr-code-generator.com/)
+2. Renseignez le lien que vous avez récupéré ci-dessus
+3. Téléchargez le QR code généré!
 
 ## Et si ça ne suffit pas ?
 Avec tout cela, si vous ne récupérez toujours pas suffisamment de commentaires positifs, [venez nous voir](https://www.studio-hb.com/contactez-nous/new), peut-être pourrons nous vous aider!
