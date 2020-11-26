@@ -7,17 +7,13 @@ categories:
 image: 2020/11/nouvelles-pratiques-immo.png
 ---
 
-# Immobilier : Nouvelles pratiques 2020
-
-{% include image.html img="2020/11/01.png" caption="Présentation" %}
-
 Ironie du sort, cet article vise à prendre un peu de recul sur les pratiques misent en place lors du premier confinement, et il est écrit alors que la France vient de basculer dans un second confinement.
 
 Il donc d’autant plus l’occasion de faire le point sur les pratiques ( qui jusqu’à lors n’étaient réservées qu’à une poignée d’**early adopters** ) qui deviennent aujourd’hui des **incontournables** dans le domaine de l’immobilier.
 
 Si l’impact du coronavirus et des confinements demeure incertain sur les prix de l’immobilier,**il ne fait aucun doute que les agences, promoteurs, bailleurs sont contraints de prendre ce virage du numérique pour rester compétitifs.**
 
-{% include image.html img="2020/11/02.png" caption="Plan 3D" %}
+{% include image.html img="2020/11/02.jpg" caption="Plan 3D" %}
 
 ## Etat des lieux sur les outils qui se démocratise dans le domaine de l’immobilier
 
@@ -33,11 +29,11 @@ En effet, que l’on soit acheteur ou potentiel locataire, les photos d’un bie
 Pour bien distinguer les deux :
 * Les **visites 3D** sont généralement utilisées pour des biens neufs et sont faites à partir d’images 3D proposées par des perspectivistes.
 
-{% include image.html img="2020/11/03.png" caption="Visite 3D" %}
+{% include image.html img="2020/11/03.jpg" caption="Visite 3D" %}
 
 * Les **visites virtuelles** sont réalisées à partir de photos 360° de biens existants. ( exemple chez BARNES)
 
-{% include image.html img="2020/11/04.png" caption="Matterport" %}
+{% include image.html img="2020/11/04.jpg" caption="Matterport" %}
 *exemple avec Matterport*
 
 L’objectif des deux technologies est de permettre à l’utilisateur **d’évoluer dans un environnement le plus fidèle possible à la réalité**. Il peut se déplacer, adopter plusieurs angles de vues sur chacune des pièces, apprécier la future vue d’un immeuble qui n’a pas encore vu le jour et même, sur certaines plateformes,  interagir avec son environnement (changer des couleurs, faire disparaître des cloisons …)
@@ -51,7 +47,7 @@ Techniquement il n’est pas difficile d’intégrer ces liens dans la présenta
 
 ## Acheter son appartement en ligne ?
 
-{% include image.html img="2020/11/05.png" caption="Achat en ligne" %}
+{% include image.html img="2020/11/05.jpg" caption="Achat en ligne" %}
 
 Avec l’évolution des mentalités, ce sont les pratiques qui s’en trouvent modifiées. **Les sites internet immobilier se transforment peu à peu en sites marchands**. S’ il paraît peu probable qu’un jour on achète un appartement comme on fait ses courses,**on voit les possibilités offertes par les outils en ligne modifier les parcours classiques des potentiels acheteurs/locataires.**
 

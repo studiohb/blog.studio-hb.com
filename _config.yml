@@ -62,6 +62,14 @@ authors:
     web: https://www.studio-hb.com/
     description: ""
 
+  gregoiredief:
+    name: Grégoire Dief
+    display_name: Grégoire Dief
+    gravatar: 518ed0e62781bf9b812b2999ffc7e8da
+    email: g.dief@studio-hb.com
+    web: https://www.studio-hb.com/
+    description: ""
+
 # Plugins
 plugins:
   - jekyll-paginate
