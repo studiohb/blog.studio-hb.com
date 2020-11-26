@@ -13,7 +13,7 @@ Il donc d’autant plus l’occasion de faire le point sur les pratiques ( qui j
 
 Si l’impact du coronavirus et des confinements demeure incertain sur les prix de l’immobilier,**il ne fait aucun doute que les agences, promoteurs, bailleurs sont contraints de prendre ce virage du numérique pour rester compétitifs.**
 
-{% include image.html img="2020/11/02.jpg" caption="Plan 3D" %}
+{% include image.html img="2020/11/02.jpg" %}
 
 ## Etat des lieux sur les outils qui se démocratise dans le domaine de l’immobilier
 
@@ -29,25 +29,25 @@ En effet, que l’on soit acheteur ou potentiel locataire, les photos d’un bie
 Pour bien distinguer les deux :
 * Les **visites 3D** sont généralement utilisées pour des biens neufs et sont faites à partir d’images 3D proposées par des perspectivistes.
 
-{% include image.html img="2020/11/03.jpg" caption="Visite 3D" %}
+{% include image.html img="2020/11/03.jpg" %}
 
 * Les **visites virtuelles** sont réalisées à partir de photos 360° de biens existants. ( exemple chez BARNES)
 
-{% include image.html img="2020/11/04.jpg" caption="Matterport" %}
-*exemple avec Matterport*
+{% include image.html img="2020/11/04.jpg" caption="Exemple avec Matterport" %}
 
 L’objectif des deux technologies est de permettre à l’utilisateur **d’évoluer dans un environnement le plus fidèle possible à la réalité**. Il peut se déplacer, adopter plusieurs angles de vues sur chacune des pièces, apprécier la future vue d’un immeuble qui n’a pas encore vu le jour et même, sur certaines plateformes,  interagir avec son environnement (changer des couleurs, faire disparaître des cloisons …)
 
 Techniquement il n’est pas difficile d’intégrer ces liens dans la présentation internet d’un bien en passant par l’un des services proposant cette prestation
-* Matterport ( lien + description)
 
-* Ricoch 360 ( lien + description )
+* [Matterport](https://matterport.com/fr) (+description)
 
-* Bien ici ( lien + description )
+* [Ricoh 360](https://www.ricohtours.com/?utm_source=google&utm_medium=cpc&utm_campaign=2020_2q&gclid=Cj0KCQiAwf39BRCCARIsALXWETw3tvgcq0qE0byGAMWBP7m5ovLbozwALqR1M6up6lN7Gu6u_SHbbjcaAiibEALw_wcB) (+description )
+
+* [Bien ici](https://www.bienici.com/) (+ description )
 
 ## Acheter son appartement en ligne ?
 
-{% include image.html img="2020/11/05.jpg" caption="Achat en ligne" %}
+{% include image.html img="2020/11/05.jpg" %}
 
 Avec l’évolution des mentalités, ce sont les pratiques qui s’en trouvent modifiées. **Les sites internet immobilier se transforment peu à peu en sites marchands**. S’ il paraît peu probable qu’un jour on achète un appartement comme on fait ses courses,**on voit les possibilités offertes par les outils en ligne modifier les parcours classiques des potentiels acheteurs/locataires.**
 
