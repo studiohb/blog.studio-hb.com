@@ -68,4 +68,4 @@ Les différents métiers de l’immobilier tendent à se numériser et même si 
 Les démarches administratives chronophages sont encore optimisables via le numérique. On pense au **tri et à la sélection automatique de dossiers de location**, aux **différentes phases de vie d’un dossier construction** chez un promoteur ou encore aux **processus de location courtes et moyennes durées en saison**.
 Certaines évolutions auront besoin que la loi évolue pour voir le jour quand d’autres sont déjà en cours de développement pour faciliter la vie des professionnels de l’immobilier de demain, dès aujourd’hui.
 
-### Chez Studio HB, notre but est de vous accompagner, pas à pas, dans cette nouvelle dimension, n’hésitez pas à nous contacter !
+**Chez Studio HB, notre but est de vous accompagner, pas à pas, dans cette nouvelle dimension, n’hésitez pas à nous contacter !**
