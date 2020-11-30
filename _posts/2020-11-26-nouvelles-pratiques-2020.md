@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nouvelles pratiques 2020"
+title:  "Nouvelles pratiques Immobilier 2020"
 author: gregoiredief
 categories:
   - Immobilier
@@ -31,7 +31,7 @@ Pour bien distinguer les deux :
 
 {% include image.html img="2020/11/03.jpg" %}
 
-* Les **visites virtuelles** sont réalisées à partir de photos 360° de biens existants. ( exemple chez BARNES)
+* Les **visites virtuelles** sont réalisées à partir de photos 360° de biens existants.
 
 {% include image.html img="2020/11/04.jpg" caption="Exemple avec Matterport" %}
 
@@ -39,11 +39,11 @@ L’objectif des deux technologies est de permettre à l’utilisateur **d’év
 
 Techniquement il n’est pas difficile d’intégrer ces liens dans la présentation internet d’un bien en passant par l’un des services proposant cette prestation
 
-* [Matterport](https://matterport.com/fr) (+description)
+* [Matterport](https://matterport.com/fr)
 
-* [Ricoh 360](https://www.ricohtours.com/?utm_source=google&utm_medium=cpc&utm_campaign=2020_2q&gclid=Cj0KCQiAwf39BRCCARIsALXWETw3tvgcq0qE0byGAMWBP7m5ovLbozwALqR1M6up6lN7Gu6u_SHbbjcaAiibEALw_wcB) (+description )
+* [Ricoh 360](https://www.ricohtours.com/?utm_source=google&utm_medium=cpc&utm_campaign=2020_2q&gclid=Cj0KCQiAwf39BRCCARIsALXWETw3tvgcq0qE0byGAMWBP7m5ovLbozwALqR1M6up6lN7Gu6u_SHbbjcaAiibEALw_wcB)
 
-* [Bien ici](https://www.bienici.com/) (+ description )
+* [Bien ici](https://www.bienici.com/recherche/achat/lyon-69000?camera=20_4.8359798_45.7635004_45_0)
 
 ## Acheter son appartement en ligne ?
 
@@ -54,7 +54,7 @@ Avec l’évolution des mentalités, ce sont les pratiques qui s’en trouvent m
 **Déposer son dossier en ligne pour les locataires**
 Avec l’objectif de faciliter la vie des candidats mais aussi celle des agents en charge de la location d’un bien. Ces véritables **“tunnels de paiement”**, que sont devenus le parcours de réservation d’un bien, permettent le dépôts des dossiers directement en ligne.
 **Signature électronique pour les mandats**
-Certaines plateformes vont même plus loin avec la possibilité permise par la signature électronique. l**’expérience utilisateur** est plus didactique, l’**expérience métier** facilitée.
+Certaines plateformes vont même plus loin avec la possibilité permise par la signature électronique, l**’expérience utilisateur** est plus didactique, l’**expérience métier** facilitée.
 La signature électronique permet encore plus aujourd’hui puisque de véritables actes notariés peuvent être signés sans la présence physique des différents partis.
 
 ## Le nerf de la guerre sur le marché immobilier reste évidemment l’acquisition de mandats
