@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nouvelles pratiques Immobilier 2020"
+title:  "Nouvelles Pratiques Immobilières 2020"
 author: gregoiredief
 categories:
   - Immobilier
