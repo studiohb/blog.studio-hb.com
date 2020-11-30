@@ -7,15 +7,15 @@ categories:
 image: 2020/11/nouvelles-pratiques-immo.png
 ---
 
-Ironie du sort, cet article vise à prendre un peu de recul sur les pratiques misent en place lors du premier confinement, et il est écrit alors que la France vient de basculer dans un second confinement.
+Ironie du sort, cet article vise à prendre un peu de recul sur les pratiques mises en place lors du premier confinement, et il est écrit alors que la France vient de basculer dans un second confinement.
 
-Il donc d’autant plus l’occasion de faire le point sur les pratiques ( qui jusqu’à lors n’étaient réservées qu’à une poignée d’**early adopters** ) qui deviennent aujourd’hui des **incontournables** dans le domaine de l’immobilier.
+Il est donc d’autant plus l’occasion de faire le point sur les pratiques ( qui jusqu’à lors n’étaient réservées qu’à une poignée d’**early adopters** ) qui deviennent aujourd’hui des **incontournables** dans le domaine de l’immobilier.
 
-Si l’impact du coronavirus et des confinements demeure incertain sur les prix de l’immobilier,**il ne fait aucun doute que les agences, promoteurs, bailleurs sont contraints de prendre ce virage du numérique pour rester compétitifs.**
+Si l’impact du coronavirus et des confinements demeure incertain sur les prix de l’immobilier, **il ne fait aucun doute que les agences, promoteurs, bailleurs sont contraints de prendre ce virage du numérique pour rester compétitifs.**
 
 {% include image.html img="2020/11/02.jpg" %}
 
-## Etat des lieux sur les outils qui se démocratise dans le domaine de l’immobilier
+## Etat des lieux des outils qui se démocratise dans le domaine de l’immobilier
 
 Nous allons faire un point sur ce qu’il est permis de faire et ce qui se démocratise sur les sites web spécialisés. Certains outils permettent de faire évoluer les démarches dans un milieu où les pratiques sont ancrées depuis des dizaines d’années.
 
@@ -49,7 +49,7 @@ Techniquement il n’est pas difficile d’intégrer ces liens dans la présenta
 
 {% include image.html img="2020/11/05.jpg" %}
 
-Avec l’évolution des mentalités, ce sont les pratiques qui s’en trouvent modifiées. **Les sites internet immobilier se transforment peu à peu en sites marchands**. S’ il paraît peu probable qu’un jour on achète un appartement comme on fait ses courses,**on voit les possibilités offertes par les outils en ligne modifier les parcours classiques des potentiels acheteurs/locataires.**
+Avec l’évolution des mentalités, ce sont les pratiques qui s’en trouvent modifiées. **Les sites internet immobilier se transforment peu à peu en sites marchands**. S’ il paraît peu probable qu’un jour on achète un appartement comme on fait ses courses, **on voit les possibilités offertes par les outils en ligne modifier les parcours classiques des potentiels acheteurs/locataires.**
 
 **Déposer son dossier en ligne pour les locataires**
 Avec l’objectif de faciliter la vie des candidats mais aussi celle des agents en charge de la location d’un bien. Ces véritables **“tunnels de paiement”**, que sont devenus le parcours de réservation d’un bien, permettent le dépôts des dossiers directement en ligne.
