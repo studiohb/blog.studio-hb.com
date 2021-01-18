@@ -9,7 +9,7 @@ image_caption: "Photo par: Henry Perks - Unsplash"
 ---
 
 
-La Géolocalisation et son utilisation sur une carte interactive sont devenus des outils indispensables sur la plupart des sites web proposant un service localisé. L'immobilier n'y échappe pas. Pourtant cette pratique n'est pas encore massivement répendue sur les sites immobiliers. Quelles en sont les raisons et pourquoi est-ce important de mettre en place cette fonctionnalité ?
+La Géolocalisation et son utilisation sur une carte interactive sont devenus des outils indispensables sur la plupart des sites web proposant un service localisé. L'immobilier n'y échappe pas. Pourtant cette pratique n'est pas encore massivement répandue sur les sites immobiliers. Quelles en sont les raisons et pourquoi est-ce important de mettre en place cette fonctionnalité ?
 
 ## La problématique du mandat _VS_ géolocalisation
 
