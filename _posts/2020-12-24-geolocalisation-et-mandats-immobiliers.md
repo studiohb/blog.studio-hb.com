@@ -5,7 +5,7 @@ author: laurentbuffevant
 categories:
   - Immobilier
 image: 2021/01/geolocalisation-et-mandats-immobiliers-studio-hb.jpg
-image_caption: "Photo par: Marie, The Noun Project"
+image_caption: "Photo par: Henry Perks - Unsplash"
 ---
 
 
@@ -19,15 +19,17 @@ En France, un particulier, quand il ne vend pas son bien en direct, peut signer 
 
 Encore aujourd'hui [plus de 3/4 des mandats sont simples](https://immo2.pro/tendances-immobilier/les-statistiques-les-plus-percutantes-pour-faire-valoir-votre-offre-de-services-aupres-de-vos-acheteurs-vendeurs/). C'est bien là le frein pour les agences de géolocaliser précisément un bien sur leur site: n'importe quel concurrent n'a plus aucune difficulté à situer le bien et à aller toquer à la porte du propriétaire pour récupérer un nouveau mandat.
 
+{% include image.html img="2021/01/2021-01-11-mandat-immobilier-et-geolocalisation.jpg" caption="Photo par: Kara Eads - Unsplash" %}
+
 **La difficulté peut aussi se présenter dans le cadre d'un mandat exclusif.** Des particuliers peuvent situer facilement le bien et se rendre directement chez le propriétaire sans passer par l'agence. Si le propriétaire n'est pas très pressé et qu'aucune offre au prix ne lui est proposé il peut attendre la fin de l'exclusivité pour traiter en direct avec le particulier et ainsi éviter de payer les frais d'agence.
 
 ## Pourquoi Géolocaliser son bien ?
 
 Malgré ces problématiques, la géolocalisation revêt un caractère très important pour plusieurs raisons:
-* La situation du bien est l'un des critères les plus important pour un acheteur. Il peut y avoir de grandes disparités entre 2 quartiers d'une même ville. Certains préferont être proches du centre du village tandis que d'autres préfèrent être isolés.
-* La qualité du prospect: Sans géolocalisation, difficile pour l'acheteur de savoir si le bien correspond à un de ces premiers critères. Résultat ? Il y a plus de chance que le contact soit peu qualifié et que vous ne puissiez rien en faire. Dans un secteur tendu cela deviendra même une perte de temps car beaucoup de contacts peu qualifiés demanderont des informations ce qui pourra devenir une perte de temps pour le négociateur. La géolocalisation **améliore donc la qualification du prospect** et peut vous faire gagner du temps dans la gestion de vos contacts.
-*
-{% include image.html img="2021/01/2021-01-11-example-carte-geolocalisation-studio-hb.jpg" caption="Géolocalisation d'un bien immobilier dans un rayon donné" %}
+* **La situation du bien est l'un des critères les plus important pour un acheteur**: Il peut y avoir de grandes disparités entre 2 quartiers d'une même ville. Certains préferont être proches du centre du village tandis que d'autres préfèrent être isolés.
+* **La qualité du prospect**: Sans géolocalisation, difficile pour l'acheteur de savoir si le bien correspond à un de ces premiers critères. Résultat ? Il y a plus de chance que le contact soit peu qualifié et que vous ne puissiez rien en faire. Dans un secteur tendu cela deviendra même une perte de temps car beaucoup de contacts peu qualifiés demanderont des informations ce qui pourra devenir une perte de temps pour le négociateur. La géolocalisation améliore donc la qualification du prospect et peut vous faire gagner du temps dans la gestion de vos contacts.
+
+{% include image.html img="2021/01/2021-01-11-exemple-carte-geolocalisation-studio-hb.jpg" caption="Géolocalisation d'un bien immobilier dans un rayon donné" %}
 
 ## Quelles solutions pour géolocaliser malgré tout ?
 
@@ -60,4 +62,4 @@ La sélection du bon outil dépendra de vos besoins et contraintes.
 
 Vous l'aurez compris, il est essentiel de Géolocaliser les biens que vous mettez à la vente afin d'offrir un service de qualité aux acheteurs et pour que les contacts que vous aurez en retour soient mieux qualifiés.
 
-Vous souhaitez en savoir plus sur ce sujet ? N'hésitez pas à [nous contacter](https://www.studio-hb.com/contactez-nous/new). Nous étudierons ensemble la mise en place d'un site web contemporain et à votre image.
+Vous souhaitez en savoir plus sur ce sujet ? N'hésitez pas à [nous contacter](https://www.studio-hb.com/contactez-nous/new). Nous étudierons ensemble la mise en place d'un site web à votre image.
