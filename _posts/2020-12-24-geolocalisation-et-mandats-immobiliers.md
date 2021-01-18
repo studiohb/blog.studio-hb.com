@@ -13,7 +13,7 @@ La Géolocalisation et son utilisation sur une carte interactive sont devenus de
 
 ## La problématique du mandat _VS_ géolocalisation
 
-En France, un particulier, quand il ne vend pas son bien en direct, peut signer 2 types de mandat avec une agence :
+En France, quand il ne vend pas son bien en direct, un particulier peut signer 2 types de mandat avec une agence :
 * **Le mandat simple** : Il confie la vente de son bien à une agence mais peut le vendre lui même de son coté ou le confier à une autre agence en même temps
 * **Le mandat exclusif** : Le bien ne peut être vendu que par l'agence. Le propriétaire doit attendre la fin de l'exclusivité pour vendre le bien par un autre biais
 
