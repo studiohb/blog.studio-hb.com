@@ -26,8 +26,8 @@ Encore aujourd'hui [plus de 3/4 des mandats sont simples](https://immo2.pro/tend
 ## Pourquoi Géolocaliser son bien ?
 
 Malgré ces problématiques, la géolocalisation revêt un caractère très important pour plusieurs raisons :
-* **La situation du bien est l'un des critères les plus important pour un acheteur**: Il peut y avoir de grandes disparités entre 2 quartiers d'une même ville. Certains préféreront être proches du centre du village tandis que d'autres préféreront être isolés.
-* **La qualité du prospect**: Sans géolocalisation, difficile pour l'acheteur de savoir si le bien correspond à un de ces premiers critères. Résultat ? Il y a plus de chance que le contact soit peu qualifié et que vous ne puissiez rien en faire. Dans un secteur tendu cela deviendra même une perte de temps car beaucoup de contacts peu qualifiés demanderont des informations ce qui pourra devenir chronophage pour le négociateur pour répondre à ces demandes. La géolocalisation améliore donc la qualification du prospect et peut vous faire gagner du temps dans la gestion de vos contacts.
+* **La situation du bien est l'un des critères les plus important pour un acheteur** : Il peut y avoir de grandes disparités entre 2 quartiers d'une même ville. Certains préféreront être proches du centre du village tandis que d'autres préféreront être isolés.
+* **La qualité du prospect** : Sans géolocalisation, difficile pour l'acheteur de savoir si le bien correspond à un de ces premiers critères. Résultat ? Il y a plus de chance que le contact soit peu qualifié et que vous ne puissiez rien en faire. Dans un secteur tendu cela deviendra même une perte de temps car beaucoup de contacts peu qualifiés demanderont des informations ce qui pourra devenir chronophage pour le négociateur pour répondre à ces demandes. La géolocalisation améliore donc la qualification du prospect et peut vous faire gagner du temps dans la gestion de vos contacts.
 
 {% include image.html img="2021/01/2021-01-11-exemple-carte-geolocalisation-studio-hb.jpg" caption="Géolocalisation d'un bien immobilier dans un rayon donné" %}
 
