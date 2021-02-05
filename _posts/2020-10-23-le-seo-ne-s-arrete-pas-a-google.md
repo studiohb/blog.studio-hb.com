@@ -36,7 +36,7 @@ Google a dû mettre en place le moyen de pouvoir interpréter ces outils pour po
 
 ## Les réseaux sociaux changent la donne
 
-Avant l'explosion des réseaux sociaux, le principal point d'entrée sur un site était effectivement un moteur de recherche, plus généralement Google. Aujourd'hui les choses ont bien changé et il n'est pas rare de voir des entreprises ou des sites Web qui ne communiquent plus que par les réseaux sociaux. Ainsi **la place du moteur de recherche a fortement diminué dans les dernières années**. Selon la typologie du site, il n'est désormais plus forcément indispensable d'être visible en première page du géant Américain.
+Avant l'explosion des réseaux sociaux, le principal point d'entrée sur un site était effectivement un moteur de recherche, plus généralement Google. Aujourd'hui les choses ont bien changé et il n'est pas rare de voir des entreprises ou des sites Web qui ne communiquent plus que par les réseaux sociaux. Ainsi **la place du moteur de recherche a fortement diminué dans les dernières années**. Selon la typologie du site, il n'est désormais plus forcément indispensable d'être visible en première page du géant Américain.
 
 ### Les règles pour être visible sur les réseaux sociaux
 Cela n'empêche pas qu'il faut quand même être visible lorsque l'on publie un lien sur les réseaux sociaux. Il faut aussi respecter des règles de base comme la bonne utilisation des [Meta Tags](https://en.wikipedia.org/wiki/Meta_element), avoir de bons titres et de bonnes descriptions, avoir un bon maillage de liens, un sitemap, etc.
