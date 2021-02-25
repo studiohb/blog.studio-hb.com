@@ -72,7 +72,7 @@ De plus, la directive `preconnect` étant plus récente, connait un moins grand 
 
 ### Prefetch
 
-`prefetch` est une autre technique d'optimisation qui permet d'indiquer au navigateur de télécharger **arrière plan** certaines ressources non nécessaires à la page actuelle de manière **non-prioritaire** et de les **mettre en cache** pour une future utilisation.
+`prefetch` est une autre technique d'optimisation qui permet d'indiquer au navigateur de télécharger en **arrière plan** certaines ressources non nécessaires à la page actuelle de manière **non-prioritaire** et de les **mettre en cache** pour une future utilisation.
 
 ```html
 <link rel="prefetch" href="image.png">
