@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Optimiser le chargement de vos pages web avec 'prefetch', 'preload' et 'preconnect'"
+title: "Optimiser le chargement de vos pages web avec 'prefetch', 'preconnect' et 'preload'"
 author: benoitbaumann
 categories:
 - Développement
-image: 2021/02/2021_02_23-optimiser-chargement-hero.png
+image: 2021/03/cover.jpg
 ---
 
 Qui n'a pas déjà râlé au moins une fois parce qu'une page internet mettait trop de temps à s'afficher&nbsp;?
@@ -17,6 +17,8 @@ Pourtant, il existe des techniques très simples permettant d'optimiser facileme
 
 Des pages qui mettent trop de temps à s'afficher peuvent faire fuir des utilisateurs et vous faire perdre des clients potentiels. Ce comportement peut se mesurer grâce à un indicateur marketing qui s'appelle le **taux de rebond**. Il représente le pourcentage d'internautes qui sont arrivés sur une page web et qui ont ensuite quitté le site sans avoir consulté d'autres pages. Ce taux reflète bien souvent l'insatisfaction de l'utilisateur. Les sources de cette insatisfaction peuvent être nombreuses mais il est certain q'un *délai de chargement trop long* en fait parti.
 
+{% include image.html img="2021/03/michal_parzuchowski.jpg" caption='Photo par : Michał Parzuchowski Unsplash' %}
+
 Cette insatisfaction a aussi un impact sur un autre indicateur très important : le **taux de conversion**. Ce dernier reflète, quant à lui le pourcentage de visiteurs réalisant une action sur votre site, que ce soit un achat dans le cas d'un site marchand ou le remplissage d'un formulaire de contact/newsletter dans les autres cas.
 
 ## Poids des pages : Gare aux pénalités des moteurs de recherche&nbsp;!
@@ -28,6 +30,8 @@ Avant de voir comment optimiser ces temps de chargement, il faut d'abord compren
 ## Mais pourquoi c'est si long&nbsp;?!
 
 Une page web peut contenir tout un tas de ressources telles que des images ou vidéos, des polices d'écriture particulière, plusieurs feuilles de style pour définir l'identité visuel de la page mais aussi des scripts ou widgets pour améliorer l'expérience utilisateur et l'interactivité. Qui plus est, ces ressources peuvent être hébergées sur le même serveur que le site que vous visitez ou bien être disponibles à travers des services tiers. **Toutes ces ressources *pèsent* un certain poids et doivent être téléchargées par votre navigateur afin d'afficher correctement la page**.
+
+{% include image.html img="2021/03/belinda_fewings.jpg" caption='Photo par : Belinda Fewings Unsplash' %}
 
 Bien entendu, le téléchargement des ressources est une tâche récurrente pour un navigateur (en fait, il passe son temps à faire ça) et se décompose de la manière suivante :
 
@@ -44,6 +48,8 @@ Les navigateurs ont fait de nettes améliorations sur ce sujet ces dernières an
 Heureusement, les navigateurs ont à disposition quelques outils simples permettant aux développeurs d'optimiser très facilement le chargement de leur pages web.
 
 ## Quelques solutions simples à mettre en place
+
+{% include image.html img="2021/03/studio_hb.jpg" %}
 
 ### DNS-prefetch : établir des connexions préalables
 
@@ -84,7 +90,7 @@ De plus, la directive `preconnect` étant plus récente, connait un moins grand 
 
 Tout le challenge de cette technique est de pouvoir **anticiper la navigation** de l'utilisateur afin de ne pas charger des ressources pour rien. Dans de nombreux cas, il sera tout bonnement impossible de prévoir avec certitude quelle page il visitera ensuite sauf dans quelques cas précis comme une page de connexion ou des pages à l'intérieur d'un tunnel de paiement ou réservation.
 
-### Preloading, le dernier standard disponible
+### Preload, le dernier standard disponible
 
 `preload` est un nouveau standard du web permettant de dire au navigateur de traiter certaines ressources comme **hautement prioritaire**, de les **télécharger aussi tôt que possible** et de les **mettre en cache** en attendant leur utilisation future.
 
