@@ -15,7 +15,7 @@ Pourtant, il existe des techniques très simples permettant d'optimiser facileme
 
 ## Pourquoi optimiser le chargement de vos pages web&nbsp;?
 
-Des pages qui mettent trop de temps à s'afficher peuvent faire fuir des utilisateurs et vous faire perdre des clients potentiels. Ce comportement peut se mesurer grâce à un indicateur marketing qui s'appelle le **taux de rebond**. Il représente le pourcentage d'internautes qui sont arrivés sur une page web et qui ont ensuite quitté le site sans avoir consulté d'autres pages. Ce taux reflète bien souvent l'insatisfaction de l'utilisateur. Les sources de cette insatisfaction peuvent être nombreuses mais il est certain q'un *délai de chargement trop long* en fait partie.
+Des pages qui mettent trop de temps à s'afficher peuvent faire fuir des utilisateurs et vous faire perdre des clients potentiels. Ce comportement peut se mesurer grâce à un indicateur marketing qui s'appelle le **taux de rebond**. Il représente le pourcentage d'internautes qui sont arrivés sur une page web et qui ont ensuite quitté le site sans avoir consulté d'autres pages. Ce taux reflète bien souvent l'insatisfaction de l'utilisateur. Les sources de cette insatisfaction peuvent être nombreuses mais il est certain qu'un *délai de chargement trop long* en fait partie.
 
 {% include image.html img="2021/03/michal_parzuchowski.jpg" caption='Photo par : Michał Parzuchowski Unsplash' %}
 
@@ -72,7 +72,7 @@ Là où cette solution devient intéressante c'est quand notre page possède de 
 La directive `preconnect` reprend exactement ce que fait `dns-prefetch` mais en allant encore plus loin. En plus de dire au navigateur de résoudre des noms de domaine en avance, elle lui indique aussi **d'établir en avance une connexion avec ces domaines**, évitant ainsi d'effectuer ces opérations coûteuses en temps (TCP handshake et négociation TLS) au moment où ces ressources seront vraiment nécessaires.
 
 ```html
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com/">
 ```
 
 Cette directive est un outil très important d'optimisation pouvant faire gagner très facilement plusieurs centaines de millisecondes.
@@ -111,6 +111,18 @@ Le mot clé `as` est très important car il indique au navigateur le type de res
 Contrairement aux autres directives vues plus haut qui sont considérées comme des "*suggestions*" par le navigateur (il peut ne pas les appliquer dans certains cas), `preload` est une **instruction obligatoire**.
 
 `preload` trouve tout son intérêt pour les ressources qui seront utilisées très tôt dans votre page et dont leur priorité est considérée comme basse par défaut par le navigateur.
+
+Chez Studio HB, nous utilisons le framework Ruby On Rails qui permet dans ses versions les plus récentes de précharger très facilement des ressources :
+
+La méthode
+```ruby
+preload_link_tag("custom_theme.css")
+```
+
+génèrera automatiquement la balise HTML suivante avec les attributes `rel`, `href`, `as` et `type` préremplis :
+```html
+<link rel="preload" href="/assets/custom_theme.css" as="style" type="text/css" />
+```
 
 ## Conclusion
 
