@@ -26,7 +26,7 @@ Le web se différencie beaucoup des autres médias, c’est l’un des seuls à 
 
 ### La lecture à l’écran :
 
-En moyenne, on sait qu’un texte se lit 25% moins vite sur sur du papier. La lumière produite par les écrans fatigue plus les yeux que le papier et favorise le **“lecture zapping”**.
+En moyenne, on sait qu’un texte se lit 25% moins vite sur du papier. La lumière produite par les écrans fatigue plus les yeux que le papier et favorise le **“lecture zapping”**.
 
 #### 20% de lecture mot à mot et 80% de lecture en diagonale
 d’après l’étude sur la lecture en ligne par Jakob Nielsen (1997)
@@ -72,11 +72,14 @@ Le principe s’applique à tous les types de contenus, les titres avec les info
 Pour déterminer le public cible d’une page on peut utiliser l’exercice des personas. Le persona correspond à la représentation virtuelle d’un utilisateur cible. Il est important qu’il ne soit pas idéalisé, les utilisateurs avec des "défauts" vous aideront à adapter le ton et trouver toutes les informations nécessaires à mettre dans la page. Plus on définit précisément les personas et plus le contenu devient pertinent et adapté.
 
 **Recherche sur les mots pour le SEO**
+
 Une fois le (les) persona(s) défini(s), il faut établir une liste de mots clés qu’il(s) pourrait(aient) utiliser. Ces mots seront à mettre en priorité sur les titres.
 
 ### QQOQP : Qui ? Quoi ? Où ? Quand ? Pourquoi ?
 
 Le QQOQP est une méthode d’analyse et de résolution de problématique qui aide à dégrossir et structurer son contenu. Elle est aussi connue en anglais par le 5W (Who ? What ? Where ? When ? Why ?)
+
+Exemple d’application à une page produit : Le shampoing anti pellicules
 
 1. **Q: Pour qui ? Quelle est la cible ?**
 Le produit convient aux personnes ayant des démangeaisons du cuir chevelu et des pellicules.
