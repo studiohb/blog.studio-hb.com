@@ -107,14 +107,14 @@ Il est important d’apporter des informations différentes sur les différents 
 
 Exemple à Studio HB nous possédons 3 médias :
 
-- **le site internet :** présentation des références de l'agence et des services proposés.
-- **le compte instagram :** nous permet d’annoncer la sortie des articles, de montrer la vie de l’agence, de montrer du contenu plus graphique sur les projets.
-- **le blog :** sujet de fond pour les clients, partage et auto-formation au sein de l’entreprise
+- le [site internet](https://www.studio-hb.com/) : présentation des références de l'agence et des services proposés.
+- le [compte instagram](https://www.instagram.com/studiohblyon/?hl=fr) : nous permet d’annoncer la sortie des articles, de montrer la vie de l’agence, de montrer du contenu plus graphique sur les projets.
+- le **blog :** sujet de fond pour les clients, partage et auto-formation au sein de l’entreprise
 
 ## Optimiser la forme du contenu
 
 ### Astuces d'écriture
-L’utilisateur web est pressé et peu attentif et il souffre d'infobésité sur ses réseaux sociaux. Plus le contenu est précis, concis et percutant et plus le contenu est efficace.
+L’utilisateur web est pressé et peu attentif et il **souffre d'infobésité** sur ses réseaux sociaux. Plus le contenu est précis, concis et percutant et plus le contenu est efficace.
 
 **Privilégier les paragraphes courts.** On a vu précédemment avec le eye tracking que l'œil se dirige naturellement vers les titres et le début des paragraphes.
 
