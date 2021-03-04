@@ -75,9 +75,9 @@ Pour déterminer le public cible d’une page on peut utiliser l’exercice des 
 
 Une fois le (les) persona(s) défini(s), il faut établir une liste de mots clés qu’il(s) pourrait(aient) utiliser. Ces mots seront à mettre en priorité sur les titres.
 
-### QQOQP : Qui ? Quoi ? Où ? Quand ? Pourquoi ?
+### QQOQCP : Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?
 
-Le QQOQP est une méthode d’analyse et de résolution de problématique qui aide à dégrossir et structurer son contenu. Elle est aussi connue en anglais par le 5W (Who ? What ? Where ? When ? Why ?)
+Le QQOQCP est une méthode d’analyse et de résolution de problématique qui aide à dégrossir et structurer son contenu. Elle est aussi connue en anglais par le 5W (Who ? What ? Where ? When ? Why ?)
 
 Exemple d’application à une page produit : Le shampoing anti pellicules
 
