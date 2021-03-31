@@ -16,9 +16,7 @@ Voici quelques notions clés à savoir pour éviter de se perdre pendant la réd
 
 La première différence est celle qui concerne le support en lui-même, il est essentiel de rappeler que sa nature est différente. Les couleurs sont rendues par des procédés différents (impression CMJN/rendu sur des pixels) et n’a pas le même impact sur la lecture et les yeux humains.
 
-| Print     |      Web      |
-|:----------:|:-------------:|
-| Qualité du support papier, CMJN, impression à encre, 300dpi, calibrage des textes sur un espace dédié...   |  Pixels, RVB, résolution d’écran, 72dpi, typo exportée pour le web, débit de connexion, référencements, poids des pages |
+{% include image.html img="2021/03/printweb.png" %}
 
 ### Le web face aux autres médias :
 
