@@ -91,7 +91,7 @@ Le produit est une exclusivité web
 4. **Q: Quand ?**
 Le produit est en édition limitée du 24 janvier au 16 mars
 
-5. **Q: Comment ?**
+5. **C: Comment ?**
 Sur le site e-commerce, les détails techniques d’envoi
 
 6. **P: Pourquoi ? Quels sont vos avantages, vos atouts ?**
