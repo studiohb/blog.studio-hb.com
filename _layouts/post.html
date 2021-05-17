@@ -46,7 +46,7 @@ post_class: post-template
             <!-- Post Featured Image -->
             {% if page.image %}
 
-            {% include image.html img=page.image caption=page.image_caption %}
+            {% include image.html img=page.image caption=page.image_caption alt=page.image_alt %}
 
             {% endif %}
             <!-- End Featured Image -->
