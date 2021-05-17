@@ -3,13 +3,12 @@ title: "Travailler au forfait ou en régie avec son agence web"
 layout: post
 author: laurentbuffevant
 categories:
-  - Immobilier
+  - Gestion de projet
+excerpt: Qu’est-ce qu’une prestation au forfait ou en régie ? Studio HB, agence web sur-mesure à Lyon vous explique leurs différences et pour quels types de projets web elles s’adaptent. Je reste bien évidemment à ta dispo
 image: 2021/05/choisir-forfait-regie-site-internet.jpg
 image_alt: "choisir de travailler au forfait ou en régie pour créer un site internet"
 image_caption: "Photo par: Alice Dietrich - Unsplash"
 ---
-
-<p style="display:none;">Qu’est-ce qu’une prestation au forfait ou en régie ? Studio HB, agence web sur-mesure à Lyon vous explique leurs différences et pour quels types de projets web elles s’adaptent. Je reste bien évidemment à ta dispo</p>
 
 **Concevoir et développer un site Internet** est un projet complexe mais aussi un investissement important pour toute entreprise. Selon le degré de complexité et d’innovation de votre projet web, **le type de contrat** choisi sera déterminant dans sa réussite. Qu’est-ce qu’une prestation au forfait ? Qu’est-ce qu’une prestation en régie ? Quelle sera la méthode de travail la plus adaptée à **votre projet digital** ? Existent-ils des alternatives ? Laurent Buffevant, Directeur projet & Associé de Studio HB, vous explique les différents aspects à prendre en considération entre **une prestation au forfait ou une prestation en régie**.
 
