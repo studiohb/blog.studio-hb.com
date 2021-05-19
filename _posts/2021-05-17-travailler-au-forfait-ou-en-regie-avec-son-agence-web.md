@@ -4,13 +4,13 @@ layout: post
 author: laurentbuffevant
 categories:
   - Gestion de projet
-excerpt: Qu’est-ce qu’une prestation au forfait ou en régie ? Studio HB, agence web sur-mesure à Lyon vous explique leurs différences et pour quels types de projets web elles s’adaptent. Je reste bien évidemment à ta dispo
+excerpt: Qu’est-ce qu’une prestation au forfait ou en régie ? Studio HB, agence web sur-mesure à Lyon vous explique leurs différences et pour quels types de projets web elles s’adaptent.
 image: 2021/05/choisir-forfait-regie-site-internet.jpg
 image_alt: "choisir de travailler au forfait ou en régie pour créer un site internet"
 image_caption: "Photo par: Alice Dietrich - Unsplash"
 ---
 
-**Concevoir et développer un site Internet** est un projet complexe mais aussi un investissement important pour toute entreprise. Selon le degré de complexité et d’innovation de votre projet web, **le type de contrat** choisi sera déterminant dans sa réussite. Qu’est-ce qu’une prestation au forfait ? Qu’est-ce qu’une prestation en régie ? Quelle sera la méthode de travail la plus adaptée à **votre projet digital** ? Existent-ils des alternatives ? Laurent Buffevant, Directeur projet & Associé de Studio HB, vous explique les différents aspects à prendre en considération entre **une prestation au forfait ou une prestation en régie**.
+**Concevoir et développer un site Internet** est un projet complexe mais aussi un investissement important pour toute entreprise. Selon le degré de complexité et d’innovation de votre projet web, **le type de contrat** choisi sera déterminant dans sa réussite. Qu’est-ce qu’une prestation au forfait ? Qu’est-ce qu’une prestation en régie ? Quelle sera la méthode de travail la plus adaptée à **votre projet digital** ? Existent-ils des alternatives ? Laurent Buffevant, Directeur projet & Associé de [Studio HB](https://www.studio-hb.com/), vous explique les différents aspects à prendre en considération entre **une prestation au forfait ou une prestation en régie**.
 
 ## Le forfait: le classique, bien connu
 
@@ -61,14 +61,14 @@ La prestation en régie est une solution adaptée aux projets innovants, à la r
 ## Les avantages / inconvénients pour ces deux types de prestations
 
 ### Les avantages / inconvénients en tant que client
-{% include image.html img="2021/05/tab-client.png"%}
+{% include image.html img="2021/05/tab-client.png" alt="avantages inconvénients forfait régie client" %}
 
 ### Les avantages / inconvénients en tant que prestataire
-{% include image.html img="2021/05/tab-prestataire.png" %}
+{% include image.html img="2021/05/tab-prestataire.png" alt="avantages inconvénients forfait régie agence" %}
 
 ## Une solution intermédiaire: les ateliers chez Studio HB
 
-La plupart des projets chez Studio HB sont réalisés au forfait explique Laurent: “Les clients ont besoin de **maîtriser leur budget**, d’avoir un prix ferme et définitif, ne serait-ce que pour aller voir leurs investisseurs ou se financer avec leur trésorerie."
+La plupart [des projets chez Studio HB](https://www.studio-hb.com/nos-sites-internet) sont réalisés au forfait explique Laurent: “Les clients ont besoin de **maîtriser leur budget**, d’avoir un prix ferme et définitif, ne serait-ce que pour aller voir leurs investisseurs ou se financer avec leur trésorerie."
 
 Pour pallier cette problématique, Studio HB propose une étape intermédiaire sous forme **d’atelier de conception.**
 
@@ -93,3 +93,5 @@ Laurent souligne également **l’importance de la relation de confiance** entre
 Néanmoins, il y a quand même une appréhension et nous la comprenons car nous nous mettons aussi à la place du client. La régie s’applique donc mieux quand on travaille déjà avec le client et que la relation de confiance est bien établie. Nous proposons désormais des **contrats d’accompagnement** pour faire évoluer les sites existants, une fluidité très agréable des deux côtés.
 
 Entre le forfait, la régie, les ateliers et les contrats d’accompagnement, nous proposons chez Studio HB un panel de solutions adaptées pour que la relation avec nos clients soit basée sur des échanges équitables et justes !"
+
+Crédit photo: [Alice Dietrich](https://unsplash.com/@alicegrace)
