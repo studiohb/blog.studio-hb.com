@@ -4,7 +4,7 @@ title: "La signification des couleurs et leur utilisation dans le web"
 author: charlottemassanes
 categories:
 - Design
-excerpt: Entre originalité et rationalité, comment faire les bons choix de couleurs pour que votre site Internet capte vos cibles? Bien choisir les couleurs dans la création d’un site Internet a une importance capitale. Elles interviennent sur nos émotions et peuvent avoir une influence sur notre perception
+excerpt: Quelles couleurs choisir pour que votre site Internet capte vos cibles? Focus sur l’utiliation des couleurs sur le web par Studio HB, agence créative sur-mesure.
 image: 2021/06/utilisation-couleur-web-agence.jpg
 image_alt: comment choisir et utiliser les couleurs dans le web
 image_caption: "Crédit photo: Vincent van Zalinge - Unsplash"
