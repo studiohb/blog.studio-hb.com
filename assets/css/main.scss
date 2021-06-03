@@ -50,3 +50,28 @@ body {
   height: 300px;
   width: 100%;
 }
+
+
+table {
+  table-layout: auto;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 13px;
+
+  thead {
+    background-color: #1B17B3;
+    color: white;
+    border-bottom: 2px solid #FBF9F3;
+  }
+
+  td,
+  th {
+    padding: 0.5rem 0.3rem;
+    border: 1px solid #E2E0DB;
+  }
+
+  tr:nth-child(2n) td {
+    background-color: #FBF9F3;
+  }
+}
