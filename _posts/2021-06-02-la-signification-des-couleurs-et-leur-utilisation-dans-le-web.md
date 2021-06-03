@@ -48,7 +48,7 @@ Toutes **les significations des couleurs** sont très bien détaillées dans un 
 Les couleurs sont prises en compte dans la création d’une **identité visuelle:** le logo et la déclinaison de la charte graphique d’une entreprise. Pour la **création d’un site Internet**, la charte graphique est reprise si elle est déjà existante. Le rôle du webdesigner consiste dans ce cas à se focaliser sur le dosage des couleurs de la charte graphique et de peut-être lui apporter un complément de couleurs.
 
 {% include image.html img="2021/06/exemple-couleurs-creation-site-internet.jpg" alt="exemple de l’utilisation des couleurs dans le web" %}
-(Site des Estudines) [https://www.estudines.com/]
+[Site des Estudines](https://www.estudines.com/)
 
 ### Les codes d’utilisation des couleurs dans le web
 
@@ -59,7 +59,7 @@ Et pour que toutes ces couleurs soient harmonieuses, il existe des **outils de c
 L’outil [Material.io](https://material.io/) permet lui de créer une palette de couleurs et de simuler leur effet avec la couleur primaire et la couleur de saillance (couleur secondaire). Il a aussi une particularité intéressante avec son onglet "accessibility" qui permet de vérifier si la palette choisie est accessible. Car bien au-delà du beau, il y a la notion d’accessibilité qui doit être prise en compte. Ainsi, c’est le [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/) qui définit les règles d’accessibilité avec notamment des précisions sur l’utilisation des couleurs pour les malvoyants ou les daltoniens.
 
 {% include image.html img="2021/06/exemple-charte-graphique-couleurs-agence-web.jpg" alt="exemple de l’utilisation des couleurs dans le web" %}
-(Site des Estudines) [https://www.estudines.com/]
+[Site des Estudines](https://www.estudines.com/)
 
 ###  Les couleurs web tendances
 
