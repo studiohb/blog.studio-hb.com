@@ -63,6 +63,8 @@ Pour recadrer des photos une par une, il existe des outils en ligne comme [Spark
 
 Sur mac, il est possible de recadrer plusieurs photos à la fois comme expliquer dans ce tutoriel: [recadrer des photos par lot](https://www.youtube.com/watch?v=Qqf2GMrIpf4). En double-cliquant sur une sélection de photo, on arrive sur la vue groupée de photos sur Aperçu. Dans l’onglet Édition, après avoir fait cmd+A, on peut ajuster la taille de plusieurs photos.
 
+<iframe style="display: block;margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/Qqf2GMrIpf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Comment compresser ses images : les différents outils
 Chez Studio HB, nous utilisons le logiciel [ImageOptim](https://imageoptim.com/fr) pour **compresser les images** sur nos sites. Nous utilisons les paramètres suivant :
 
