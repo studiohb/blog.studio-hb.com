@@ -29,7 +29,7 @@ Derrière un joli dessin, il y a **un bon matériel** et Charlotte sait exacteme
 Pour l’aquarelle, il faut un papier dédié et épais d’environ 325gr. Mon préféré est le papier à grain fin, on peut choisir du papier cellulose ou du 100% coton, qui est plus onéreux mais facilite le travail de certaines techniques. J’utilise bien évidemment des pinceaux et des godets d’aquarelle ! Il existe divers types d’aquarelles, mes préférées sont les extra-fines mais on peut commencer avec de la fine sans aucun souci car il en existe de très bonne qualité. J’ai aussi très envie de tester les aquarelles artisanales, faites par des petites mains, ce sont des marques que l'on peut suivre sur Instagram, je pense notamment à ce compte : https://www.instagram.com/lescouleursvf/ j’adore voir le processus de fabrication de tous ces petits godets !
 En matériel en plus pour l’aquarelle, j’utilise aussi crayon à papier, gomme normale et gomme mie de pain, des stylos « Micron », de la gouache blanche ou un stylo Posca blanc, du fluide de masquage, un chiffon, une palette et de l’eau !”
 
-{% include image.html img="2021/09/compte-insta-aquarelle.jpg" alt="compte instagram les couleurs vf" %}
+{% include image.html img="2021/09/compte-insta-aquarelle.jpeg" alt="compte instagram les couleurs vf" %}
 Crédit photo :[Les couleurs VF](https://www.instagram.com/lescouleursvf/?hl=fr)
 
 ## Trouver du temps pour dessiner
