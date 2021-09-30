@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Passion de notre UI designer : Charlotte et l’aquarelle"
-author: StudioHB
+author: studiohb
 categories:
 - Vie d'agence
 excerpt: Aux commandes du design de notre agence web sur-mesure à Lyon se trouve Charlotte. Découvrez son univers créatif bien plus vaste que le web avec ses dessins et aquarelles.
