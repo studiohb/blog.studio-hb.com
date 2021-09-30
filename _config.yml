@@ -78,6 +78,14 @@ authors:
     web: https://www.studio-hb.com/
     description: ""
 
+  studiohb:
+    name: Studio HB
+    display_name: Studio HB
+    gravatar: 9319462d322e93c6914ef1e6ab3b95af
+    email: contact@studio-hb.com
+    web: https://www.studio-hb.com/
+    description: ""
+
 # Plugins
 plugins:
   - jekyll-paginate
