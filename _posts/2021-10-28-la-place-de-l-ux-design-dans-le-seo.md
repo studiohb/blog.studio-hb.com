@@ -25,7 +25,7 @@ Crédit photo : [Hal Gatewood](https://unsplash.com/@halacious)
 Il est appelé de plusieurs façons: référencement naturel, SEO pour Search Engine Optimization ou bien encore “référencement gratuit”. Il a pour objectif de **positionner un site Internet** dans les premières positions des **moteurs de recherche dit la SERP** (Search Engine Result Page). Plus un site est référencé sur un large panel de **mots-clés**, plus il sera visible des internautes, plus il générera de trafic. Il se différencie du référencement payant, SEA (Search Engine Advertising), qui lui se base sur un principe d’enchère pour l’achat de mot-clés.
 
 {% include image.html img="2021/10/seo-referencement-naturel-ux-design.jpg" alt="définition SEO Search Engine Optimization ou référencement naturel" %}
-Crédit photo: [Merakist]()https://unsplash.com/@merakist)
+Crédit photo: [Merakist](https://unsplash.com/@merakist)
 
 Indispensable, le référencement naturel est une prestation de plus en plus demandée face à la rude concurrence du web. Les prestations peuvent donc intervenir à plusieurs niveaux nous explique Arnaud:
 
