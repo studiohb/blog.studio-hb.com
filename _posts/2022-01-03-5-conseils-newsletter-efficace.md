@@ -18,13 +18,13 @@ Une newsletter est l’un des supports de communication qui permet de garder un 
 ## Intéressez vos lecteurs
 
 Le contenu de votre newsletter construira sa réputation. Avec des **contenus pertinents** qui répondent aux **problématiques de vos lecteurs**, vous allez créer l’envie de l’ouvrir, de la dérouler et de cliquer sur les **call-to-action.**
-En créant un contenu qui plaît, tous vos indicateurs seront au vert : votre taux d’ouverture, le temps de lecture mais aussi le taux de clics.
+En créant un contenu qui plaît, tous vos indicateurs seront au vert : votre taux d’ouverture, le temps de lecture mais aussi le taux de clic.
 
 ## Variez les sujets
 
 Selon votre secteur d’activité, vous pouvez aborder d’autres domaines plus ou moins larges. Parler de **sujets connexes** permet d’ouvrir d’autres horizons plutôt que d’être uniquement focus sur votre entreprise, vos produits et/ou services.
 
-Par exemple, vous pourriez mettre en avant un de vos partenariats, une actualités de votre secteur ou avec un rapport avec votre domaine ou bien encore parler d’un évènement, ect. Plus vous ferez découvrir de choses à vos lecteurs et plus ils auront un intérêt de la lire.
+Par exemple, vous pourriez mettre en avant un de vos partenariats, une actualités de votre secteur ou avec un rapport avec votre domaine ou bien encore parler d’un évènement, etc. Plus vous ferez découvrir de choses à vos lecteurs et plus ils auront un intérêt de la lire.
 
 # 2. Segmentez votre base de données
 
@@ -40,7 +40,7 @@ Une newsletter doit être agréable à regarder et créer l’envie de la dérou
 
 ## Travailler l’objet
 
-Accordez une importance capital à votre objet! C’est ce qui donnera envie ou non d’ouvrir votre email. L’art du teasing est complexe et certaines entreprises le font très bien !
+Accordez une importance capitale à votre objet! C’est ce qui donnera envie ou non d’ouvrir votre email. L’art du teasing est complexe et certaines entreprises le font très bien !
 
 {% include image.html img="2022/01/exemple-newsletter-accroche-welcome-to-the-jungle.jpg" alt="exemples d’objets pour une newsletter réussie " %}
 
@@ -48,7 +48,7 @@ Accordez une importance capital à votre objet! C’est ce qui donnera envie ou 
 
 ## Travailler vos textes
 
-L’objectif final de **votre newsletter** sera de rebasculer vos lecteurs vers **votre site Internet**. pour chaque rubrique, soignez la description du contenu, accrochez vos lecteurs et ajoutez le fameux call-to-action où l’information complète sera disponible.
+L’objectif final de **votre newsletter** sera de basculer vos lecteurs vers **votre site Internet**. Pour chaque rubrique, soignez la description du contenu, accrochez vos lecteurs et ajoutez le fameux call-to-action où l’information complète sera disponible.
 
 Voici quelques exemples :
 
@@ -61,7 +61,7 @@ Voici quelques exemples :
 
 # 5. Optimisez votre newsletter
 
-Dans **l’envoi d’une campagne d’emailing**, il y a un gros facteur risque : **le spam**. En d’autres termes, vos destinataires ne receront jamais votre newsletter car sa boîte email va considérer le votre comme un spam. Pourquoi certains emails tombent en spam ? Parceque les boîtes de réception ont chacune des filtres qui leur permettent de juger la pertinence du contenu.
+Dans **l’envoi d’une campagne d’emailing**, il y a un gros facteur risque : **le spam**. En d’autres termes, vos destinataires ne recevront jamais votre newsletter car sa boîte mail va considérer le vôtre comme un spam. Pourquoi certains mails tombent en spam ? Parce que les boîtes de réception ont chacune des filtres qui leur permettent de juger la pertinence du contenu.
 
 Voici quelques conseils à suivre pour **optimiser une newsletter** :
 
